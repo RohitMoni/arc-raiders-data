@@ -175,6 +175,10 @@
       ]
     }
   },
+  "upgradeCost": {
+    "metal_parts": 10,
+    "simple_gun_parts": 1
+  },
   "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
   "updatedAt": "10/31/2025",
   "isWeapon": true
