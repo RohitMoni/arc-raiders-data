@@ -212,6 +212,12 @@
       "value": "Light, Medium, Heavy"
     }
   },
+  "slots": {
+    "backpack": 18,
+    "safe_pocket": 1,
+    "quick_use": 4,
+    "grenade": 2
+  },
   "shieldCompatibility": [
     "light",
     "medium",
