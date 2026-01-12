@@ -109,6 +109,9 @@
       "value": "Light"
     }
   },
+  "shieldCompatibility": [
+    "light"
+  ],
   "imageFilename": "https://cdn.arctracker.io/items/looting_mk3_cautious.png",
   "updatedAt": "11/03/2025",
   "recipe": {
