@@ -48,7 +48,7 @@
     "canister": 1
   },
   "weightKg": 0.2,
-  "stackSize": 3,
+  "stackSize": 5,
   "effects": {
     "Duration": {
       "en": "Duration",
