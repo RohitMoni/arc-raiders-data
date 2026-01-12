@@ -70,6 +70,10 @@
   "shieldCompatibility": [
     "light"
   ],
+  "slots": {
+    "backpack": 14,
+    "quick_use": 4
+  },
   "value": 100,
   "weightKg": 1,
   "imageFilename": "https://cdn.arctracker.io/items/free_loadout_augment.png",
