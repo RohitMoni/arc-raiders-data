@@ -119,6 +119,11 @@
     "plastic_parts": 6,
     "rubber_parts": 6
   },
+  "slots": {
+    "backpack": 16,
+    "safe_pocket": 1,
+    "quick_use": 4
+  },
   "shieldCompatibility": [
     "light",
     "medium"
