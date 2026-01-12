@@ -107,6 +107,12 @@
       "value": "Light"
     }
   },
+  "slots": {
+    "backpack": 22,
+    "safe_pocket": 2,
+    "quick_use": 4,
+    "trinket": 3
+  },
   "shieldCompatibility": [
     "light"
   ],
