@@ -107,6 +107,10 @@
       "value": "Light, Medium"
     }
   },
+  "shieldCompatibility": [
+    "light",
+    "medium"
+  ],
   "value": 5000,
   "weightKg": 4,
   "recyclesInto": {
