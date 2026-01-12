@@ -132,6 +132,11 @@
       "value": "Light, Medium, Heavy"
     }
   },
+  "shieldCompatibility": [
+    "light",
+    "medium",
+    "heavy"
+  ],
   "recyclesInto": {
     "magnet": 1,
     "electrical_components": 1
