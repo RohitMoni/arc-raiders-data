@@ -110,6 +110,12 @@
       "value": "Light, Medium"
     }
   },
+  "slots": {
+    "backpack": 17,
+    "safe_pocket": 1,
+    "quick_use": 5,
+    "utility": 1
+  },
   "shieldCompatibility": [
     "light",
     "medium"
