@@ -109,6 +109,12 @@
       "value": "Light"
     }
   },
+  "slots": {
+    "backpack": 24,
+    "safe_pocket": 2,
+    "quick_use": 5,
+    "integrated_binoculars": 1
+  },
   "shieldCompatibility": [
     "light"
   ],
