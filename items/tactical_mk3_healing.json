@@ -111,6 +111,10 @@
       "value": "Light, Medium"
     }
   },
+  "shieldCompatibility": [
+    "light",
+    "medium"
+  ],
   "weightKg": 4,
   "value": 5000,
   "imageFilename": "https://cdn.arctracker.io/items/tactical_mk3_healing.png",
