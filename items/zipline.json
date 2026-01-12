@@ -54,5 +54,6 @@
   "recipe": {
     "rope": 1,
     "mechanical_components": 1
-  }
+  },
+  "stackSize": 3
 }
