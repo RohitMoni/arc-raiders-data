@@ -212,6 +212,11 @@
       "value": "Light, Medium, Heavy"
     }
   },
+  "shieldCompatibility": [
+    "light",
+    "medium",
+    "heavy"
+  ],
   "weightKg": 5,
   "value": 5000,
   "recipe": {
