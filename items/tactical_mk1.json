@@ -113,6 +113,10 @@
       "value": "Light, Medium"
     }
   },
+  "shieldCompatibility": [
+    "light",
+    "medium"
+  ],
   "imageFilename": "https://cdn.arctracker.io/items/tactical_i.png",
   "updatedAt": "11/03/2025",
   "recipe": {
