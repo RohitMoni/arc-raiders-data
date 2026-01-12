@@ -113,6 +113,9 @@
       "value": "Light"
     }
   },
+  "shieldCompatibility": [
+    "light"
+  ],
   "updatedAt": "11/03/2025",
   "recipe": {
     "plastic_parts": 6,
