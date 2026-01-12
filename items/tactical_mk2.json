@@ -110,6 +110,10 @@
       "value": "Light, Medium"
     }
   },
+  "shieldCompatibility": [
+    "light",
+    "medium"
+  ],
   "weightKg": 2,
   "recyclesInto": {
     "advanced_electrical_components": 1,
