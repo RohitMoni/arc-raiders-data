@@ -42,7 +42,8 @@
   },
   "type": "Quick Use",
   "categories": [
-    "Quick Use"
+    "Quick Use",
+    "Utility"
   ],
   "rarity": "Common",
   "value": 270,
