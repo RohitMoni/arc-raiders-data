@@ -194,5 +194,11 @@
   "weightKg": 8,
   "imageFilename": "https://cdn.arctracker.io/items/il_toro.png",
   "updatedAt": "11/12/2025",
-  "isWeapon": true
+  "isWeapon": true,
+  "supportedModifications": [
+    "Shotgun-Muzzle Modification",
+    "Underbarrel Modification",
+    "Shotgun-Mag Modification",
+    "Stock Modification"
+  ]
 }

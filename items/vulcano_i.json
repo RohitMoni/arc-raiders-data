@@ -178,5 +178,11 @@
       "value": "Weak"
     }
   },
-  "isWeapon": true
+  "isWeapon": true,
+  "supportedModifications": [
+    "Shotgun-Muzzle Modification",
+    "Underbarrel Modification",
+    "Shotgun-Mag Modification",
+    "Stock Modification"
+  ]
 }

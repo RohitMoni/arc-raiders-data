@@ -167,5 +167,10 @@
   },
   "craftBench": "weapon_bench",
   "weightKg": 12,
-  "isWeapon": true
+  "isWeapon": true,
+  "supportedModifications": [
+    "Muzzle Modification",
+    "Medium-Mag Modification",
+    "Stock Modification"
+  ]
 }

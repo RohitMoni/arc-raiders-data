@@ -210,5 +210,11 @@
   "salvagesInto": {
     "metal_parts": 6
   },
-  "isWeapon": true
+  "isWeapon": true,
+  "supportedModifications": [
+    "Muzzle Modification",
+    "Underbarrel Modification",
+    "Light-Mag Modification",
+    "Stock Modification"
+  ]
 }

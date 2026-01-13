@@ -163,5 +163,10 @@
     "canister": 3
   },
   "craftBench": "weapon_bench",
-  "isWeapon": true
+  "isWeapon": true,
+  "supportedModifications": [
+    "Muzzle Modification",
+    "Underbarrel Modification",
+    "Stock Modification"
+  ]
 }

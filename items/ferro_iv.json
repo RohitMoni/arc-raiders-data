@@ -194,5 +194,10 @@
       "value": "39% Reduced Reload Time"
     }
   },
-  "isWeapon": true
+  "isWeapon": true,
+  "supportedModifications": [
+    "Muzzle Modification",
+    "Underbarrel Modification",
+    "Stock Modification"
+  ]
 }

@@ -189,5 +189,9 @@
   "stationLevelRequired": 2,
   "imageFilename": "https://cdn.arctracker.io/items/venator.png",
   "updatedAt": "11/20/2025",
-  "isWeapon": true
+  "isWeapon": true,
+  "supportedModifications": [
+    "Underbarrel Modification",
+    "Medium-Mag Modification"
+  ]
 }

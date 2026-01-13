@@ -185,5 +185,11 @@
   },
   "craftBench": "weapon_bench",
   "stationLevelRequired": 2,
-  "isWeapon": true
+  "isWeapon": true,
+  "supportedModifications": [
+    "Muzzle Modification",
+    "Underbarrel Modification",
+    "Medium-Mag Modification",
+    "Stock Modification"
+  ]
 }

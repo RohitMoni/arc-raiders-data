@@ -219,5 +219,11 @@
     "heavy_gun_parts": 2
   },
   "stationLevelRequired": 1,
-  "isWeapon": true
+  "isWeapon": true,
+  "supportedModifications": [
+    "Shotgun-Muzzle Modification",
+    "Underbarrel Modification",
+    "Shotgun-Mag Modification",
+    "Stock Modification"
+  ]
 }

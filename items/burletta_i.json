@@ -167,5 +167,9 @@
     "simple_gun_parts": 3
   },
   "craftBench": "weapon_bench",
-  "isWeapon": true
+  "isWeapon": true,
+  "supportedModifications": [
+    "Muzzle Modification",
+    "Light-Mag Modification"
+  ]
 }

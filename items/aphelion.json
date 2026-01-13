@@ -151,5 +151,9 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/aphelion.png",
   "updatedAt": "12/07/2025",
-  "isWeapon": true
+  "isWeapon": true,
+  "supportedModifications": [
+    "Underbarrel Modification",
+    "Stock Modification"
+  ]
 }

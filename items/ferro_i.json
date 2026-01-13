@@ -176,5 +176,10 @@
     "workbench",
     "weapon_bench"
   ],
-  "isWeapon": true
+  "isWeapon": true,
+  "supportedModifications": [
+    "Muzzle Modification",
+    "Underbarrel Modification",
+    "Stock Modification"
+  ]
 }

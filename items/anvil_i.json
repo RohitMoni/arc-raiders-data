@@ -169,5 +169,9 @@
   "salvagesInto": {
     "simple_gun_parts": 2
   },
-  "isWeapon": true
+  "isWeapon": true,
+  "supportedModifications": [
+    "Muzzle Modification",
+    "Tech-Mod Modification"
+  ]
 }

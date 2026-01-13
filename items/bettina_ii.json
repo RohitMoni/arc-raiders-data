@@ -204,5 +204,10 @@
     "advanced_mechanical_components": 1,
     "heavy_gun_parts": 2
   },
-  "isWeapon": true
+  "isWeapon": true,
+  "supportedModifications": [
+    "Muzzle Modification",
+    "Underbarrel Modification",
+    "Stock Modification"
+  ]
 }

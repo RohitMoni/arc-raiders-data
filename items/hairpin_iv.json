@@ -232,5 +232,8 @@
     "mechanical_components": 1,
     "simple_gun_parts": 1
   },
-  "isWeapon": true
+  "isWeapon": true,
+  "supportedModifications": [
+    "Light-Mag Modification"
+  ]
 }

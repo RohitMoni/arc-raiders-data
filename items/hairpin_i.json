@@ -193,5 +193,8 @@
     "workbench",
     "weapon_bench"
   ],
-  "isWeapon": true
+  "isWeapon": true,
+  "supportedModifications": [
+    "Light-Mag Modification"
+  ]
 }

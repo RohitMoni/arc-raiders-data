@@ -174,5 +174,10 @@
   "weightKg": 6,
   "imageFilename": "https://cdn.arctracker.io/items/rattler.png",
   "updatedAt": "12/16/2025",
-  "isWeapon": true
+  "isWeapon": true,
+  "supportedModifications": [
+    "Muzzle Modification",
+    "Underbarrel Modification",
+    "Stock Modification"
+  ]
 }

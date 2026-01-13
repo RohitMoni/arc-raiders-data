@@ -169,5 +169,10 @@
   "blueprintLocked": true,
   "imageFilename": "https://cdn.arctracker.io/items/tempest.png",
   "updatedAt": "12/7/2025",
-  "isWeapon": true
+  "isWeapon": true,
+  "supportedModifications": [
+    "Muzzle Modification",
+    "Underbarrel Modification",
+    "Medium-Mag Modification"
+  ]
 }

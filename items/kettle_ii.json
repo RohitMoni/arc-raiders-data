@@ -58,5 +58,11 @@
   },
   "isWeapon": true,
   "imageFilename": "https://cdn.arctracker.io/items/kettle.png",
-  "updatedAt": "10/30/2025"
+  "updatedAt": "10/30/2025",
+  "supportedModifications": [
+    "Muzzle Modification",
+    "Underbarrel Modification",
+    "Light-Mag Modification",
+    "Stock Modification"
+  ]
 }
