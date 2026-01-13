@@ -41,6 +41,9 @@
     "sr": "Sjajan, svetlucav set profinjenosti i elegancije."
   },
   "type": "Trinket",
+  "categories": [
+    "Trinket"
+  ],
   "value": 3000,
   "recyclesInto": {},
   "updatedAt": "12/07/2025",

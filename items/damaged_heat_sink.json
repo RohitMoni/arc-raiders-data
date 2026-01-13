@@ -21,6 +21,9 @@
     "sr": "Oštećeni Hladnjak"
   },
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "rarity": "Rare",
   "description": {
     "en": "Can be recycled into crafting materials.",

@@ -41,6 +41,9 @@
     "sr": "Zavist svakog Speranzanca. Dokaz da je ovaj svet nekada bio živahan i čaroban."
   },
   "type": "Trinket",
+  "categories": [
+    "Trinket"
+  ],
   "value": 7000,
   "foundIn": "Residential, Old World, Commercial",
   "imageFilename": "https://cdn.arctracker.io/items/breathtaking_snow_globe.png",

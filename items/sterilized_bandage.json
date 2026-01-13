@@ -41,6 +41,9 @@
     "sr": "Medicinski predmet koji postepeno obnavlja veliku količinu zdravlja tokom vremena."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "imageFilename": "https://cdn.arctracker.io/items/sterilized_bandage.png",
   "value": 2000,
   "rarity": "Rare",

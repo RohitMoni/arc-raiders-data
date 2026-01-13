@@ -41,6 +41,9 @@
     "sr": "Kozmetički Ranac"
   },
   "type": "Cosmetic",
+  "categories": [
+    "Cosmetic"
+  ],
   "rarity": "Common",
   "updatedAt": "10/30/2025"
 }

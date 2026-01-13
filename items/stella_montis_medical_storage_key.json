@@ -41,6 +41,9 @@
     "fr": "Déverrouille une porte dans les Archives à Stella Montis"
   },
   "type": "Key",
+  "categories": [
+    "Key"
+  ],
   "rarity": "Uncommon",
   "weightKg": 0.25,
   "stackSize": 1,

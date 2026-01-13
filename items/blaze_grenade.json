@@ -41,6 +41,9 @@
     "sr": "Granata koja eksplodira pri udaru, prekrivajući područje vatrom koja nanosi štetu tokom vremena."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "rarity": "Rare",
   "value": 1600,
   "imageFilename": "https://cdn.arctracker.io/items/blaze_grenade.png",

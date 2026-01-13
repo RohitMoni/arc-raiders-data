@@ -41,6 +41,9 @@
     "sr": "Laserska žica zamka koja detonira mamac granatu."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "value": 1000,
   "rarity": "Uncommon",
   "weightKg": 0.25,

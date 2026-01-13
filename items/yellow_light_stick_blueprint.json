@@ -41,6 +41,9 @@
     "sr": "Hemijsko svetlo za bacanje koje osvetljava oblast oko sebe."
   },
   "type": "Blueprint",
+  "categories": [
+    "Blueprint"
+  ],
   "value": 5000,
   "rarity": "Legendary",
   "weightKg": 0,

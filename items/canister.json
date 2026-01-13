@@ -41,6 +41,9 @@
     "sr": "Koristi se za pravljenje širokog spektra predmeta. Može se reciklirati u plastiku. Koristi se za pravljenje: Bettina, Vita Spray, Heavy Fuze Grenade, Smoke Grenade"
   },
   "type": "Topside Material",
+  "categories": [
+    "Topside Material"
+  ],
   "rarity": "Uncommon",
   "value": 300,
   "recyclesInto": {

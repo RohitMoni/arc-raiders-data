@@ -201,6 +201,9 @@
     "da": "Halvautomatisk haglgevær med god spredning men kraftigt skadefald"
   },
   "type": "Shotgun",
+  "categories": [
+    "Shotgun"
+  ],
   "rarity": "Epic",
   "damage": 49.5,
   "fireRate": 26.3,

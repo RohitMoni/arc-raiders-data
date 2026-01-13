@@ -43,6 +43,9 @@
   },
   "imageFilename": "https://cdn.arctracker.io/items/roots.png",
   "type": "Nature",
+  "categories": [
+    "Nature"
+  ],
   "value": 640,
   "recyclesInto": {
     "assorted_seeds": 1

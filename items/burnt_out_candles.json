@@ -41,6 +41,9 @@
     "sr": "Nakon pada mreže, sveće su postale preferirani izvor svetla za mnoge. Za razliku od električne energije, dobra stara sveća te nikada neće izneveriti. Osim ako je vetrovito. Ili pada kiša. Ili..."
   },
   "type": "Trinket",
+  "categories": [
+    "Trinket"
+  ],
   "rarity": "Common",
   "weightKg": 0.2,
   "foundIn": "Residential, Old World",

@@ -41,6 +41,9 @@
     "sr": "Otključava vrata Gradske Većnice u Zakopanom Gradu"
   },
   "type": "Key",
+  "categories": [
+    "Key"
+  ],
   "rarity": "Epic",
   "value": 100,
   "recyclesInto": {},

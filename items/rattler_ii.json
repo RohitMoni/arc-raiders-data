@@ -160,6 +160,9 @@
     "hr": "Potpuno automatska jurišna puška. Jeftina ofenzivna opcija, ali se mora puniti po 2 metka odjednom."
   },
   "type": "Assault Rifle",
+  "categories": [
+    "Assault Rifle"
+  ],
   "rarity": "Common",
   "damage": 9,
   "fireRate": 33.3,

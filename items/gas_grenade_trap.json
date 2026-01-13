@@ -41,6 +41,9 @@
     "sr": "Laserska žica zamka koja detonira Gasnu Granatu."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "rarity": "Common",
   "value": 300,
   "weightKg": 0.25,

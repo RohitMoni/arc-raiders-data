@@ -46,6 +46,9 @@
     "sr": "Može se reciklirati u materijale za izradu."
   },
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "value": 270,
   "recyclesInto": {
     "plastic_parts": 4

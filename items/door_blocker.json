@@ -41,6 +41,9 @@
     "sr": "Mehanizam za zaključavanje koji se može postaviti na velika metalna vrata kako bi se ograničio pristup."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "rarity": "Common",
   "value": 270,
   "weightKg": 0.2,

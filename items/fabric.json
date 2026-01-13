@@ -41,6 +41,9 @@
     "sr": "Koristi se za izradu medicinskih potrepština i štitova. Može se koristiti za polaganu obnovu malih količina zdravlja."
   },
   "type": "Basic Material",
+  "categories": [
+    "Basic Material"
+  ],
   "rarity": "Common",
   "value": 50,
   "recyclesInto": {},

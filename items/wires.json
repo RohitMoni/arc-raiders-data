@@ -42,6 +42,9 @@
     "sr": "Koristi se za izradu širokog spektra predmeta. Može se reciklirati u materijale za izradu. Koristi se za izradu: Vatrena Zamka sa Granatom, Dimna Zamka sa Granatom, Zamka sa Mamcem, Gasna Zamka sa Granatom, Usporivač Cevi I"
   },
   "type": "Topside Material",
+  "categories": [
+    "Topside Material"
+  ],
   "rarity": "Uncommon",
   "value": 200,
   "recyclesInto": {

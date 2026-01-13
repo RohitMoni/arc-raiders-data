@@ -41,6 +41,9 @@
     "sr": "Mogla bi vredeti nekoliko novčića."
   },
   "type": "Trinket",
+  "categories": [
+    "Trinket"
+  ],
   "value": 2000,
   "rarity": "Rare",
   "weightKg": 0.3,

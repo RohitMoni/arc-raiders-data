@@ -41,6 +41,9 @@
     "sr": "Umereno poboljšava brzinu nišanjenja i izvlačenja. Kompatibilno sa: Arpeggio, Kettle, Ferro, Renegade, Hullcracker"
   },
   "type": "Modification",
+  "categories": [
+    "Modification"
+  ],
   "value": 5000,
   "rarity": "Epic",
   "weightKg": 0.25,

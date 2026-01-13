@@ -41,6 +41,9 @@
     "sr": "Poluautomatski pištolj. Ispaljuje dva hica odjednom."
   },
   "type": "Pistol",
+  "categories": [
+    "Pistol"
+  ],
   "rarity": "Rare",
   "effects": {
     "Durability": {

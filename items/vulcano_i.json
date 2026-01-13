@@ -41,6 +41,9 @@
     "sr": "Poluautomatska sačmara sa dobrim rasipanjem metaka ali oštrim padom."
   },
   "type": "Shotgun",
+  "categories": [
+    "Shotgun"
+  ],
   "rarity": "Epic",
   "damage": 58.5,
   "fireRate": 8.3,

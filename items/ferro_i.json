@@ -41,6 +41,9 @@
     "sr": "Zadaje snažan udarac, ali se mora puniti između svakog hica."
   },
   "type": "Battle Rifle",
+  "categories": [
+    "Battle Rifle"
+  ],
   "rarity": "Common",
   "value": 475,
   "recyclesInto": {

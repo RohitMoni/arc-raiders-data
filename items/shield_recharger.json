@@ -41,6 +41,9 @@
     "sr": "Ručni komplet koji postepeno puni štit tokom vremena."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "value": 520,
   "rarity": "Uncommon",
   "weightKg": 0.15,

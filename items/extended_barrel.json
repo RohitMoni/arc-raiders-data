@@ -41,6 +41,9 @@
   },
   "id": "extended_barrel",
   "type": "Modification",
+  "categories": [
+    "Modification"
+  ],
   "value": 5000,
   "rarity": "Epic",
   "weightKg": 0.5,

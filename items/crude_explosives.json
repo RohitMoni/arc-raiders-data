@@ -42,6 +42,9 @@
   },
   "rarity": "Uncommon",
   "type": "Refined Material",
+  "categories": [
+    "Refined Material"
+  ],
   "value": 270,
   "recyclesInto": {
     "chemicals": 3

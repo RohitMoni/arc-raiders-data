@@ -41,6 +41,9 @@
     "sr": "Koristi se za pravljenje oružja. Koristi se za pravljenje: Il Toro, Burletta, Anvil, Arpeggio, Heavy Gun Parts"
   },
   "type": "Topside Material",
+  "categories": [
+    "Topside Material"
+  ],
   "rarity": "Uncommon",
   "value": 330,
   "recyclesInto": {

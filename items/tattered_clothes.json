@@ -42,6 +42,9 @@
   },
   "rarity": "Uncommon",
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "value": 640,
   "foundIn": "Residential",
   "recyclesInto": {

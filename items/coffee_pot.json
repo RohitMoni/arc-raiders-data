@@ -41,6 +41,9 @@
     "sr": "Snaga za suočavanje sa novim danom, šolja po šolja."
   },
   "type": "Trinket",
+  "categories": [
+    "Trinket"
+  ],
   "value": 1000,
   "recyclesInto": {},
   "weightKg": 0.3,

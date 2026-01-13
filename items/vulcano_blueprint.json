@@ -41,6 +41,9 @@
     "sr": "Poluautomatska sacmara sa dobrim rasipanjem metaka ali ostrim padom."
   },
   "type": "Blueprint",
+  "categories": [
+    "Blueprint"
+  ],
   "rarity": "Legendary",
   "value": 5000,
   "weightKg": 0,

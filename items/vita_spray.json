@@ -41,6 +41,9 @@
     "sr": "Medicinski predmet koji kontinuirano obnavlja zdravlje tokom korišćenja. Može se koristiti na sebi ili saveznicima."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "rarity": "Epic",
   "value": 3000,
   "weightKg": 1,

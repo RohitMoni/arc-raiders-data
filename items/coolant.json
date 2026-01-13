@@ -41,6 +41,9 @@
     "hr": "Može se reciklirati u materijale za izradu."
   },
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "value": 1000,
   "rarity": "Rare",
   "weightKg": 2,

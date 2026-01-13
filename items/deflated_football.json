@@ -41,6 +41,9 @@
     "sr": "Samo gledajući ovo, i ti se počneš osećati pomalo ispuhano."
   },
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "recyclesInto": {
     "rubber_parts": 15
   },

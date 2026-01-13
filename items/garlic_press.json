@@ -42,6 +42,9 @@
   },
   "rarity": "Uncommon",
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "value": 1000,
   "weightKg": 0.8,
   "stackSize": 3,

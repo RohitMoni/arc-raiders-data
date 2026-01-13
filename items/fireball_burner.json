@@ -41,6 +41,9 @@
     "sr": "Može se reciklirati u ARC leguru. Može se baciti kako bi se stvorile male vatre."
   },
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "rarity": "Uncommon",
   "value": 640,
   "recyclesInto": {

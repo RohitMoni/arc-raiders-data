@@ -41,6 +41,9 @@
     "sr": "Umereno povećava brzinu paljbe. Kompatibilno sa: Arpeggio, Rattler, Kettle, Ferro, Renegade"
   },
   "type": "Modification",
+  "categories": [
+    "Modification"
+  ],
   "rarity": "Legendary",
   "weightKg": 0.75,
   "effects": {

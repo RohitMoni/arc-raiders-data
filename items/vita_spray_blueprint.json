@@ -41,6 +41,9 @@
     "sr": "Medicinski predmet koji kontinuirano obnavlja zdravlje tokom upotrebe. Može se koristiti na sebi ili saveznicima."
   },
   "type": "Blueprint",
+  "categories": [
+    "Blueprint"
+  ],
   "value": 5000,
   "imageFilename": "https://cdn.arctracker.io/items/vita_spray.png",
   "rarity": "Legendary",

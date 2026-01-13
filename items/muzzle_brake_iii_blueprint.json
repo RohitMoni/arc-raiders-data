@@ -41,6 +41,9 @@
     "sr": "Znacajno smanjuje i vertikalni i horizontalni trzaj. Kompatibilno sa: Arpeggio, Ferro, Renegade, Anvil, Stitcher"
   },
   "type": "Blueprint",
+  "categories": [
+    "Blueprint"
+  ],
   "rarity": "Legendary",
   "value": 5000,
   "weightKg": 0,

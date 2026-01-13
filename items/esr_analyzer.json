@@ -41,6 +41,9 @@
     "sr": "Specijalizovan medicinski uređaj za analizu brzine sedimentacije eritrocita."
   },
   "type": "Trinket",
+  "categories": [
+    "Trinket"
+  ],
   "updatedAt": "11/17/2025",
   "rarity": "Common",
   "weightKg": 0.25,

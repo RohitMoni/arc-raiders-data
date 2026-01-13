@@ -41,6 +41,9 @@
     "da": "En eksperimentel stråleriffel med høj kapacitet."
   },
   "type": "LMG",
+  "categories": [
+    "LMG"
+  ],
   "rarity": "Legendary",
   "damage": 8,
   "fireRate": 33.33,

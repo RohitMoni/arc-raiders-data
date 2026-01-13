@@ -41,6 +41,9 @@
     "da": "En bolt-action sniperriffel med exceptionel skadeeffekt og præcision, men langsom håndtering."
   },
   "type": "Blueprint",
+  "categories": [
+    "Blueprint"
+  ],
   "rarity": "Legendary",
   "value": 5000,
   "weightKg": 0,

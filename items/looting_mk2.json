@@ -41,6 +41,9 @@
     "sr": "Značajno povećava potencijal pljačkanja; dodaje slotove za sitnice. Automatski odbacuje pričvršćene Krpelje nakon 0.5s."
   },
   "type": "Augment",
+  "categories": [
+    "Augment"
+  ],
   "rarity": "Rare",
   "effects": {
     "Durability": {

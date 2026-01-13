@@ -41,6 +41,9 @@
     "sr": "Laserska žica zamka koja detonira Vatrenu Granatu."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "rarity": "Rare",
   "value": 1000,
   "weightKg": 0.3,

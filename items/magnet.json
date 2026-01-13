@@ -41,6 +41,9 @@
     "sr": "Koristi se za izradu širokog spektra predmeta. Može se reciklirati u materijale za izradu."
   },
   "type": "Topside Material",
+  "categories": [
+    "Topside Material"
+  ],
   "rarity": "Uncommon",
   "value": 300,
   "recyclesInto": {

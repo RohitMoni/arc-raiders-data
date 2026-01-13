@@ -41,6 +41,9 @@
     "hr": "Novi kozmetički predmet bit će dodan u vašu kolekciju."
   },
   "type": "Cosmetic",
+  "categories": [
+    "Cosmetic"
+  ],
   "imageFilename": "https://cdn.arctracker.io/items/cheer.png",
   "rarity": "Common",
   "updatedAt": "11/16/2025"

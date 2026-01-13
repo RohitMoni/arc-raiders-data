@@ -41,6 +41,9 @@
     "sr": "Koristi se za izradu medicinskih potrepština. Može se reciklirati u hemikalije. Koristi se za izradu: Sterilizovani Zavoj, Vita Sprej, Vita Injekcija"
   },
   "type": "Refined Material",
+  "categories": [
+    "Refined Material"
+  ],
   "rarity": "Rare",
   "recyclesInto": {
     "chemicals": 10

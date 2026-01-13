@@ -41,6 +41,9 @@
     "sr": "Može se reciklirati u tkaninu."
   },
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "rarity": "Rare",
   "value": 640,
   "recyclesInto": {

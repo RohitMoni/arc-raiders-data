@@ -41,6 +41,9 @@
     "sr": "Daleko prošao rok trajanja. Može se (nevoljko) konzumirati za obnavljanje male količine zdravlja."
   },
   "type": "Trinket",
+  "categories": [
+    "Trinket"
+  ],
   "value": 1000,
   "weightKg": 0.1,
   "stackSize": 15,

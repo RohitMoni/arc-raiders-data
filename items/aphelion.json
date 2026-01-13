@@ -41,6 +41,9 @@
     "sr": "Eksperimentalno ARC zrakasto oruzje pokretano Matriarch reaktorom."
   },
   "type": "Special",
+  "categories": [
+    "Special"
+  ],
   "rarity": "Legendary",
   "effects": {
     "Durability": {

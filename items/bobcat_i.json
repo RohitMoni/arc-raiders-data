@@ -41,6 +41,9 @@
     "sr": "Potpuno automatski SMG sa visokom brzinom paljbe ali niskom preciznošću."
   },
   "type": "SMG",
+  "categories": [
+    "SMG"
+  ],
   "rarity": "Epic",
   "value": 13000,
   "recyclesInto": {

@@ -41,6 +41,9 @@
     "sr": "Blago poboljšava rasipanje i vreme oporavka trzaja."
   },
   "type": "Modification",
+  "categories": [
+    "Modification"
+  ],
   "rarity": "Common",
   "value": 640,
   "imageFilename": "https://cdn.arctracker.io/items/stable_stock_i.png",

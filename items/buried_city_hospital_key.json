@@ -41,6 +41,9 @@
     "sr": "Ključ za oblasti unutar bolnice zakopanog grada."
   },
   "type": "Key",
+  "categories": [
+    "Key"
+  ],
   "rarity": "Rare",
   "value": 100,
   "weightKg": 0.25,

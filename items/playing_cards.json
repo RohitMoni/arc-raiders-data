@@ -41,6 +41,9 @@
     "sr": "Speranzanci vole da vide ko može da sagradi najvišu kulu - pre nego što je potresi sruše."
   },
   "type": "Trinket",
+  "categories": [
+    "Trinket"
+  ],
   "value": 5000,
   "recyclesInto": {},
   "updatedAt": "11/01/2025",

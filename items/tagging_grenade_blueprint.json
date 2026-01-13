@@ -41,6 +41,9 @@
     "sr": "Granata koja detonira nakon odlaganja, oznacavajuci Razbojnike i ARC neprijatelje u podrucju."
   },
   "type": "Blueprint",
+  "categories": [
+    "Blueprint"
+  ],
   "rarity": "Legendary",
   "value": 5000,
   "weightKg": 0,

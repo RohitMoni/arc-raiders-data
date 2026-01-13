@@ -41,6 +41,9 @@
     "sr": "Tehnički mod za Nakovanj koji zamenjuje njegove metke onima koji se dele na 4 slabija projektila."
   },
   "type": "Modification",
+  "categories": [
+    "Modification"
+  ],
   "rarity": "Legendary",
   "weightKg": 0.5,
   "effects": {

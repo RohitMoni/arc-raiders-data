@@ -41,6 +41,9 @@
     "sr": "Blago povećava kapacitet streljiva sačmarica. Kompatibilno sa: Il Toro, Vulcano"
   },
   "type": "Modification",
+  "categories": [
+    "Modification"
+  ],
   "rarity": "Common",
   "weightKg": 0.25,
   "value": 640,

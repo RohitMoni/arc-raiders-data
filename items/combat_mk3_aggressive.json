@@ -41,6 +41,9 @@
     "es": "Una versión mejorada del aumento Combate II. Soporta más tipos de escudos y viene con espacio extra para granadas."
   },
   "type": "Augment",
+  "categories": [
+    "Augment"
+  ],
   "rarity": "Epic",
   "effects": {
     "Health Regeneration": {

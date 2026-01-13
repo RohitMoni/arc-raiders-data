@@ -41,6 +41,9 @@
     "sr": "Koristi se za izradu oružja. Koristi se za izradu: Vulcano, Hullcracker, Bettina, Složeni delovi oružja"
   },
   "type": "Topside Material",
+  "categories": [
+    "Topside Material"
+  ],
   "rarity": "Rare",
   "value": 700,
   "recyclesInto": {

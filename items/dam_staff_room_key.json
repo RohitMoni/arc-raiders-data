@@ -41,6 +41,9 @@
     "sr": "Ključ za sobu osoblja u Brani."
   },
   "type": "Key",
+  "categories": [
+    "Key"
+  ],
   "updatedAt": "11/10/2025",
   "imageFilename": "https://cdn.arctracker.io/items/dam_staff_room_key.png",
   "value": 100,

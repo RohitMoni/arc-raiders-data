@@ -41,6 +41,9 @@
     "sr": "Značajno poboljšava raspršenje i vreme oporavka trzaja."
   },
   "type": "Modification",
+  "categories": [
+    "Modification"
+  ],
   "rarity": "Rare",
   "value": 5000,
   "weightKg": 0.75,

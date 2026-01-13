@@ -41,6 +41,9 @@
     "sr": "Brzo i precizno, ali ima nisku brzinu metka i dugo traje punjenje."
   },
   "type": "Assault Rifle",
+  "categories": [
+    "Assault Rifle"
+  ],
   "rarity": "Common",
   "value": 5000,
   "weightKg": 7,

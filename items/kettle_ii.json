@@ -41,6 +41,9 @@
     "sr": "Poluautomatska jurišna puška. Brza i precizna, ali ima nisku brzinu metka i dugo traje punjenje."
   },
   "type": "Assault Rifle",
+  "categories": [
+    "Assault Rifle"
+  ],
   "rarity": "Common",
   "value": 840,
   "weightKg": 7,

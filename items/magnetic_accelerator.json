@@ -22,6 +22,9 @@
   },
   "rarity": "Epic",
   "type": "Refined Material",
+  "categories": [
+    "Refined Material"
+  ],
   "value": 5500,
   "recyclesInto": {
     "advanced_mechanical_components": 1,

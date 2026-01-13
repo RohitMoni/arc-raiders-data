@@ -41,6 +41,9 @@
     "hr": "Pojačana augmentacija tovarne životinje. Veliki kapacitet težine i veliki prostor za ruksak."
   },
   "type": "Blueprint",
+  "categories": [
+    "Blueprint"
+  ],
   "value": 5000,
   "weightKg": 0,
   "imageFilename": "https://cdn.arctracker.io/items/looting_mk3_survivor_blueprint.png",

@@ -41,6 +41,9 @@
     "sr": "Osnovno taktičko poboljšanje. Više mesta za brzu upotrebu za veći taktički izbor, ali ograničena sposobnost preživljavanja i malo niži potencijal pljačkanja."
   },
   "type": "Augment",
+  "categories": [
+    "Augment"
+  ],
   "rarity": "Uncommon",
   "value": 640,
   "recyclesInto": {

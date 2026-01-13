@@ -41,6 +41,9 @@
   },
   "id": "gas_mine",
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "value": 270,
   "rarity": "Common",
   "weightKg": 0.25,

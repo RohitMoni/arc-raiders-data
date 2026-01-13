@@ -41,6 +41,9 @@
     "sr": "Koristi se za izradu naprednog oružja. Koristi se za izradu: Equalizer, Jupiter"
   },
   "type": "Topside Material",
+  "categories": [
+    "Topside Material"
+  ],
   "rarity": "Epic",
   "weightKg": 1,
   "stackSize": 3,

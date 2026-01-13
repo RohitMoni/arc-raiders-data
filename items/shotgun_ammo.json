@@ -45,6 +45,9 @@
     "Vulcano"
   ],
   "type": "Ammunition",
+  "categories": [
+    "Ammunition"
+  ],
   "value": 20,
   "weightKg": 0.085,
   "stackSize": 20,

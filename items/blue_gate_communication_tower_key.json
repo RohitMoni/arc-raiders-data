@@ -41,6 +41,9 @@
     "ja": "ブルーゲート近くの通信塔のそばにあるドアを開錠する"
   },
   "type": "Key",
+  "categories": [
+    "Key"
+  ],
   "rarity": "Rare",
   "weightKg": 0.25,
   "stackSize": 1,

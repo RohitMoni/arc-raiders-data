@@ -42,6 +42,9 @@
     "sr": "Može se baciti i nakratko će omamiti obližnje mete"
   },
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "rarity": "Rare",
   "value": 2000,
   "recyclesInto": {

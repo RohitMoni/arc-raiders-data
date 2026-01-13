@@ -41,6 +41,9 @@
   },
   "id": "rotary_encoder",
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "rarity": "Rare",
   "weightKg": 1.5,
   "foundIn": "Exodus",

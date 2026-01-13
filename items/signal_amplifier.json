@@ -41,6 +41,9 @@
   },
   "id": "signal_amplifier",
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "rarity": "Rare",
   "weightKg": 1.5,
   "foundIn": "Exodus",

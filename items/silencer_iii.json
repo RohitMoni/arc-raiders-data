@@ -41,6 +41,9 @@
     "sr": "Značajno smanjuje količinu buke proizvedene pri pucanju. Kompatibilno sa: Tempest, Arpeggio, Kettle, Ferro, Renegade"
   },
   "type": "Modification",
+  "categories": [
+    "Modification"
+  ],
   "rarity": "Epic",
   "value": 7000,
   "weightKg": 0.75,

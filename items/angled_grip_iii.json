@@ -41,6 +41,9 @@
     "sr": "Značajno smanjuje horizontalni trzaj. Kompatibilno sa: Arpeggio, Ferro, Venator, Il Toro, Stitcher"
   },
   "type": "Modification",
+  "categories": [
+    "Modification"
+  ],
   "value": 5000,
   "rarity": "Rare",
   "weightKg": 0.75,

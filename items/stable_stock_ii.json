@@ -41,6 +41,9 @@
     "sr": "Umereno poboljšava rasipanje i vreme oporavka od trzaja."
   },
   "type": "Modification",
+  "categories": [
+    "Modification"
+  ],
   "rarity": "Uncommon",
   "value": 2000,
   "weightKg": 0.5,

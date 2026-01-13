@@ -41,6 +41,9 @@
     "sr": "Eksplozivni uredaj aktiviran blizinom koji detonira kada se neprijatelji priblize."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "rarity": "Rare",
   "value": 1500,
   "weightKg": 0.5,

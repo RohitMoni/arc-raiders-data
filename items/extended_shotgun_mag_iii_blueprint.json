@@ -41,6 +41,9 @@
     "hr": "Značajno proširuje kapacitet municije za sačmare."
   },
   "type": "Blueprint",
+  "categories": [
+    "Blueprint"
+  ],
   "value": 5000,
   "weightKg": 0,
   "stackSize": 1,

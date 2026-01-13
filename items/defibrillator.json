@@ -41,6 +41,9 @@
     "sr": "Injekcija koja brzo oživljava oborene pljačkaše i obnavlja deo zdravlja."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "rarity": "Rare",
   "value": 1000,
   "recyclesInto": {

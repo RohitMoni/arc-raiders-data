@@ -41,6 +41,9 @@
     "sr": "Kabl za teške uslove koji se koristi za prenos električne energije."
   },
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "rarity": "Rare",
   "value": 1000,
   "recyclesInto": {

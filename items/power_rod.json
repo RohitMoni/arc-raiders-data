@@ -41,6 +41,9 @@
     "sr": "Koristi se u izradi. Koristi se za izradu: Teški Štit, Brza Kuka"
   },
   "type": "Refined Material",
+  "categories": [
+    "Refined Material"
+  ],
   "rarity": "Epic",
   "weightKg": 2,
   "stackSize": 3,

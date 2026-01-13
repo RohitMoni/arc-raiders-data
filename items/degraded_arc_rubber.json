@@ -41,6 +41,9 @@
     "sr": "Dobija se od ARC neprijatelja ili aktivnosti. Može se reciklirati u gumu."
   },
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "rarity": "Uncommon",
   "weightKg": 1,
   "stackSize": 3,

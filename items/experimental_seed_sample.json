@@ -41,6 +41,9 @@
   },
   "id": "experimental_seed_sample",
   "type": "Trinket",
+  "categories": [
+    "Trinket"
+  ],
   "weightKg": 0.25,
   "imageFilename": "https://cdn.arctracker.io/items/experimental_seed_sample.png",
   "rarity": "Common",

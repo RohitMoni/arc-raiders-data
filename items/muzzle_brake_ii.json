@@ -41,6 +41,9 @@
     "sr": "Umereno smanjuje i vertikalni i horizontalni trzaj. Kompatibilno sa: Tempest, Arpeggio, Kettle, Ferro, Renegade"
   },
   "type": "Modification",
+  "categories": [
+    "Modification"
+  ],
   "rarity": "Uncommon",
   "value": 2000,
   "recyclesInto": {

@@ -41,6 +41,9 @@
     "hr": "Osnovno poboljšanje za početničke Raidere, nudi malo više prostora u ruksaku i nosivosti."
   },
   "type": "Augment",
+  "categories": [
+    "Augment"
+  ],
   "rarity": "Common",
   "effects": {
     "Durability": {

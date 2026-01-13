@@ -41,6 +41,9 @@
     "sr": "Umereno smanjuje osnovnu raspršenost. Kompatibilno sa: Il Toro, Vulcano"
   },
   "type": "Modification",
+  "categories": [
+    "Modification"
+  ],
   "rarity": "Uncommon",
   "value": 2000,
   "weightKg": 0.5,

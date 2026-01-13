@@ -41,6 +41,9 @@
     "sr": "Ako stojite blizu i prižmirite oči, kao da se svet nikada nije srušio."
   },
   "type": "Trinket",
+  "categories": [
+    "Trinket"
+  ],
   "rarity": "Uncommon",
   "value": 2000,
   "weightKg": 0.3,

@@ -41,6 +41,9 @@
     "sr": "Glavni ključ za stambena područja u Zakopanom Gradu."
   },
   "type": "Key",
+  "categories": [
+    "Key"
+  ],
   "value": 100,
   "weightKg": 0.25,
   "rarity": "Uncommon",

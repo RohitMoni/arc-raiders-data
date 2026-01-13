@@ -41,6 +41,9 @@
     "sr": "Granata koja detonira pri udaru, nanoseći eksplozivnu štetu u malom radijusu."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "rarity": "Common",
   "value": 270,
   "imageFilename": "https://cdn.arctracker.io/items/light_impact_grenade.png",

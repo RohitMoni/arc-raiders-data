@@ -41,6 +41,9 @@
     "hr": "Pojačana augmentacija tovarne životinje. Veliki kapacitet težine i veliki prostor za ruksak. Dok ste oboreni i nepokretni, zdravlje se regenerira do 75% maksimalnog zdravlja u oborenom stanju."
   },
   "type": "Augment",
+  "categories": [
+    "Augment"
+  ],
   "rarity": "Epic",
   "effects": {
     "Durability": {

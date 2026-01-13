@@ -41,6 +41,9 @@
     "sr": "Potpuno automatski SMG. Zadaje dobru štetu, ali ima prilično nisku brzinu paljbe i može biti teško kontrolisati."
   },
   "type": "SMG",
+  "categories": [
+    "SMG"
+  ],
   "rarity": "Uncommon",
   "value": 3000,
   "weightKg": 5,

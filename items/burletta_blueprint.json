@@ -41,6 +41,9 @@
     "sr": "Nacrt za izradu Burletta oružja."
   },
   "type": "Blueprint",
+  "categories": [
+    "Blueprint"
+  ],
   "updatedAt": "11/12/2025",
   "rarity": "Legendary",
   "imageFilename": "https://cdn.arctracker.io/items/burletta.png"

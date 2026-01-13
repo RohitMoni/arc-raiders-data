@@ -41,6 +41,9 @@
     "sr": "Koristi se za izradu širokog spektra predmeta. Može se reciklirati u otpadni metal. Koristi se za izradu: Energetski Okvir, Srednji Štit, Električna Mina"
   },
   "type": "Topside Material",
+  "categories": [
+    "Topside Material"
+  ],
   "rarity": "Uncommon",
   "imageFilename": "https://cdn.arctracker.io/items/battery.png",
   "value": 250,

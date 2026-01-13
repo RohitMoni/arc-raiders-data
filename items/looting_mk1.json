@@ -41,6 +41,9 @@
     "sr": "Osnovno poboljšanje za pljačkanje. Više mesta u rancu i nosivosti, ali niska odbrambena i taktička sposobnost."
   },
   "type": "Augment",
+  "categories": [
+    "Augment"
+  ],
   "rarity": "Uncommon",
   "value": 640,
   "recyclesInto": {

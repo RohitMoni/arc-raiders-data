@@ -225,6 +225,9 @@
     "da": "En kikkertsigteret bundstykkeriffel med pålidelig skadeeffekt og præcision."
   },
   "type": "Sniper Rifle",
+  "categories": [
+    "Sniper Rifle"
+  ],
   "rarity": "Rare",
   "damage": 45,
   "fireRate": 17.7,

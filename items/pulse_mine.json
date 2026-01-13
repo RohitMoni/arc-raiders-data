@@ -41,6 +41,9 @@
   },
   "id": "pulse_mine",
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "value": 470,
   "rarity": "Uncommon",
   "weightKg": 0.25,

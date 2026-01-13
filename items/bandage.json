@@ -41,6 +41,9 @@
     "sr": "Medicinski predmet koji postepeno obnavlja zdravlje tokom vremena."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "rarity": "Common",
   "value": 250,
   "recyclesInto": {

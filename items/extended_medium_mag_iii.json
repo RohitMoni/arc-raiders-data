@@ -41,6 +41,9 @@
     "sr": "Značajno povećava kapacitet municije kompatibilnog oružja koje koristi srednju municiju. Kompatibilno sa: Arpeggio, Renegade, Venator, Tempest, Torrente"
   },
   "type": "Modification",
+  "categories": [
+    "Modification"
+  ],
   "value": 5000,
   "rarity": "Rare",
   "weightKg": 0.75,

@@ -41,6 +41,9 @@
   },
   "id": "radio_relay",
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "value": 3000,
   "rarity": "Rare",
   "weightKg": 1.5,

@@ -22,6 +22,9 @@
   },
   "rarity": "Epic",
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "value": 5000,
   "recyclesInto": {
     "arc_alloy": 2,

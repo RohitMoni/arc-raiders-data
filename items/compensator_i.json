@@ -41,6 +41,9 @@
     "sr": "Blago smanjuje rasipanje po hicu. Kompatibilno sa: Arpeggio, Ferro, Renegade, Anvil, Stitcher"
   },
   "type": "Modification",
+  "categories": [
+    "Modification"
+  ],
   "rarity": "Common",
   "value": 640,
   "imageFilename": "https://cdn.arctracker.io/items/compensator_i.png",

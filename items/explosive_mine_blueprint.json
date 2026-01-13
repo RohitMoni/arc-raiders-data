@@ -41,6 +41,9 @@
     "sr": "Eksplozivni uredaj aktiviran blizinom koji detonira kada se neprijatelji priblize."
   },
   "type": "Blueprint",
+  "categories": [
+    "Blueprint"
+  ],
   "rarity": "Legendary",
   "value": 5000,
   "stackSize": 1,

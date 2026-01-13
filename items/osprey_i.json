@@ -41,6 +41,9 @@
     "sr": "Ima pouzdanu štetu i preciznost."
   },
   "type": "Sniper Rifle",
+  "categories": [
+    "Sniper Rifle"
+  ],
   "updatedAt": "11/12/2025",
   "value": 7000,
   "rarity": "Rare",

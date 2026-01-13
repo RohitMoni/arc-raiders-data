@@ -41,6 +41,9 @@
     "sr": "Lens je lično rasporedio nekoliko ovih po Pojasu Hrđe, iz nekog razloga."
   },
   "type": "Trinket",
+  "categories": [
+    "Trinket"
+  ],
   "value": 10000,
   "updatedAt": "11/04/2025",
   "rarity": "Epic",

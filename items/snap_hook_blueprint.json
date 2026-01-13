@@ -41,6 +41,9 @@
     "sr": "Naprava koja korisniku omogućava penjanje po strukturama i prelaženje velikih udaljenosti."
   },
   "type": "Blueprint",
+  "categories": [
+    "Blueprint"
+  ],
   "value": 5000,
   "weightKg": 0,
   "rarity": "Legendary",

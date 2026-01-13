@@ -41,6 +41,9 @@
     "sr": "Otključava nacrt izrade za Kutiju vatrometa."
   },
   "type": "Blueprint",
+  "categories": [
+    "Blueprint"
+  ],
   "value": 5000,
   "weightKg": 0,
   "rarity": "Legendary",

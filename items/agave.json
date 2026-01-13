@@ -41,6 +41,9 @@
     "sr": "Komad lista agave. Može se koristiti za obnovu male količine zdravlja."
   },
   "type": "Nature",
+  "categories": [
+    "Nature"
+  ],
   "rarity": "Uncommon",
   "value": 1000,
   "weightKg": 0.2,

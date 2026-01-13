@@ -41,6 +41,9 @@
     "hr": "Značajno smanjuje okomiti trzaj. Kompatibilno s: Tempest, Kettle, Hullcracker, Venator, Il Toro"
   },
   "type": "Modification",
+  "categories": [
+    "Modification"
+  ],
   "value": 5000,
   "rarity": "Rare",
   "weightKg": 0.75,

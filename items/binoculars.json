@@ -41,6 +41,9 @@
     "sr": "Osnovni dvogled sa dva nivoa uveličanja."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "updatedAt": "11/03/2025",
   "rarity": "Common",
   "value": 640,

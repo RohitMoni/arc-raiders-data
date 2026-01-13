@@ -46,6 +46,9 @@
     "sr": "Koristi se za izradu širokog spektra predmeta. Može se reciklirati u materijale za izradu. Koristi se za izradu: Stable Stock I, Vertical Grip I, Angled Grip I, Vertical Grip II, Angled Grip II"
   },
   "type": "Topside Material",
+  "categories": [
+    "Topside Material"
+  ],
   "rarity": "Uncommon",
   "weightKg": 0.25,
   "stackSize": 15,

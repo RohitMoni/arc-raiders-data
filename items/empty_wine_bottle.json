@@ -41,6 +41,9 @@
     "sr": "Da, zaista je prazna."
   },
   "type": "Trinket",
+  "categories": [
+    "Trinket"
+  ],
   "value": 1000,
   "weightKg": 0.2,
   "stackSize": 5,

@@ -41,6 +41,9 @@
   },
   "id": "major_aivas_patch",
   "type": "Trinket",
+  "categories": [
+    "Trinket"
+  ],
   "weightKg": 0.25,
   "effects": {
     "Tracked for quest": {

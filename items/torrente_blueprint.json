@@ -41,6 +41,9 @@
     "sr": "Ima veliki kapacitet streljiva, ali je precizan samo dok ste čučeći."
   },
   "type": "Blueprint",
+  "categories": [
+    "Blueprint"
+  ],
   "weightKg": 0,
   "rarity": "Legendary",
   "imageFilename": "https://cdn.arctracker.io/items/torrente.png",

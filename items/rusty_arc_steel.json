@@ -41,6 +41,9 @@
     "ja": "ARCの敵や活動から入手。スクラップメタルにリサイクルできます。"
   },
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "rarity": "Uncommon",
   "weightKg": 1,
   "stackSize": 3,

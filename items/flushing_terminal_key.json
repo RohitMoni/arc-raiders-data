@@ -41,6 +41,9 @@
     "sr": "Ovaj ključ se koristi u zadatku \"The Stench of Corruption\" za aktiviranje Flushing Terminala"
   },
   "type": "Trinket",
+  "categories": [
+    "Trinket"
+  ],
   "updatedAt": "12/16/2025",
   "imageFilename": "https://cdn.arctracker.io/items/flushing_terminal_key.png",
   "value": 0,

@@ -43,6 +43,9 @@
   "imageFilename": "https://cdn.arctracker.io/items/snowball.png",
   "rarity": "Common",
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "value": 10,
   "recyclesInto": {},
   "weightKg": 0.4,

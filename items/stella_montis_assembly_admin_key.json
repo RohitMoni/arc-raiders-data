@@ -41,6 +41,9 @@
   },
   "id": "stella_montis_assembly_admin_key",
   "type": "Key",
+  "categories": [
+    "Key"
+  ],
   "rarity": "Uncommon",
   "weightKg": 0.25,
   "value": 100,

@@ -41,6 +41,9 @@
   },
   "id": "telemetry_transceiver",
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "rarity": "Rare",
   "weightKg": 1.5,
   "stackSize": 3,

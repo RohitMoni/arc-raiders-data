@@ -41,6 +41,9 @@
     "sr": "Ključ za skladište kontejnera u Svemirskoj Luci."
   },
   "type": "Key",
+  "categories": [
+    "Key"
+  ],
   "_note": "not_in_serverslam",
   "updatedAt": "11/08/2025",
   "imageFilename": "https://cdn.arctracker.io/items/spaceport_control_tower_key.png",

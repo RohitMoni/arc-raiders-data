@@ -41,6 +41,9 @@
     "sr": "Granata koja se raspršuje u više samonavođenih projektila, od kojih svaki cilja ARC i nanosi eksplozivnu štetu pri udaru."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "rarity": "Epic",
   "weightKg": 1,
   "stackSize": 1,

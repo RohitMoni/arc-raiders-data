@@ -22,6 +22,9 @@
   },
   "rarity": "Uncommon",
   "type": "Nature",
+  "categories": [
+    "Nature"
+  ],
   "value": 1000,
   "recyclesInto": {},
   "updatedAt": "10/31/2025",

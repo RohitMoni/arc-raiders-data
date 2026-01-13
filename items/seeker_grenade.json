@@ -41,6 +41,9 @@
   },
   "id": "seeker_grenade",
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "value": 640,
   "rarity": "Uncommon",
   "weightKg": 0.2,

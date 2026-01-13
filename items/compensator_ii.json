@@ -41,6 +41,9 @@
     "sr": "Umereno smanjuje raspršenje po pucnju. Kompatibilno sa: Arpeggio, Ferro, Renegade, Anvil, Stitcher"
   },
   "type": "Modification",
+  "categories": [
+    "Modification"
+  ],
   "value": 2000,
   "rarity": "Uncommon",
   "weightKg": 0.5,

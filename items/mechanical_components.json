@@ -41,6 +41,9 @@
     "sr": "Koristi se za pravljenje širokog spektra predmeta. Može se reciklirati u materijale za pravljenje. Koristi se za pravljenje: Il Toro, Burletta, Anvil, Muzzle Brake II, Extended Medium Mag II"
   },
   "type": "Refined Material",
+  "categories": [
+    "Refined Material"
+  ],
   "rarity": "Uncommon",
   "value": 640,
   "recyclesInto": {

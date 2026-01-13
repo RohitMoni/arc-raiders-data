@@ -41,6 +41,9 @@
     "sr": "Daljinski aktivirana granata koja se može zalepiti na površine i ARC, nanoseći eksplozivnu štetu kada se aktivira."
   },
   "type": "Blueprint",
+  "categories": [
+    "Blueprint"
+  ],
   "value": 5000,
   "weightKg": 0,
   "stackSize": 1,

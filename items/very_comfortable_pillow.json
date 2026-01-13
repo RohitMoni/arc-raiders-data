@@ -41,6 +41,9 @@
     "sr": "Zavist svakog pljačkaša. Kao spavanje na posebno ergonomskom oblaku."
   },
   "type": "Trinket",
+  "categories": [
+    "Trinket"
+  ],
   "value": 2000,
   "weightKg": 0.3,
   "stackSize": 3,

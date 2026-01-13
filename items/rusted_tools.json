@@ -41,6 +41,9 @@
     "sr": "Komplet alata, zahrđalih ali još uvek upotrebljivih za izradu."
   },
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "rarity": "Rare",
   "value": 1000,
   "weightKg": 2,

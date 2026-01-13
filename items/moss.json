@@ -41,6 +41,9 @@
     "sr": "Može se koristiti za obnavljanje male količine zdravlja."
   },
   "type": "Topside Material",
+  "categories": [
+    "Topside Material"
+  ],
   "rarity": "Rare",
   "value": 500,
   "recyclesInto": {

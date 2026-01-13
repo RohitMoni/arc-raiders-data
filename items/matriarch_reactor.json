@@ -41,6 +41,9 @@
     "fr": "Peut être recyclé en matériaux d'artisanat."
   },
   "type": "Material",
+  "categories": [
+    "Material"
+  ],
   "rarity": "Legendary",
   "weightKg": 10,
   "stackSize": 1,

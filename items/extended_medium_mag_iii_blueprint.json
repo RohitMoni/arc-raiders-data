@@ -41,6 +41,9 @@
     "sr": "Značajno povećava kapacitet municije kompatibilnog oružja koje koristi srednju municiju."
   },
   "type": "Blueprint",
+  "categories": [
+    "Blueprint"
+  ],
   "effects": {
     "Magazine Size": {
       "en": "Magazine Size",

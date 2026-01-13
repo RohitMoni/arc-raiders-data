@@ -41,6 +41,9 @@
     "sr": "Ispaljuje eksplozivne projektile koji detoniraju samo pri pogotku ARC-a."
   },
   "type": "Special",
+  "categories": [
+    "Special"
+  ],
   "rarity": "Epic",
   "value": 10000,
   "stackSize": 1,

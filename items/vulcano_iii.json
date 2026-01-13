@@ -41,6 +41,9 @@
     "sr": "Ima dobro rasipanje metaka, ali oštar pad štete."
   },
   "type": "Shotgun",
+  "categories": [
+    "Shotgun"
+  ],
   "rarity": "Epic",
   "value": 17000,
   "weightKg": 8,

@@ -41,6 +41,9 @@
     "sr": "Koristi se za izradu širokog spektra predmeta. Koristi se za izradu: Bacačka Municija, Ukosnica, Teška Municija, Ferro, Kotlić"
   },
   "type": "Basic Material",
+  "categories": [
+    "Basic Material"
+  ],
   "rarity": "Common",
   "value": 75,
   "recyclesInto": {},

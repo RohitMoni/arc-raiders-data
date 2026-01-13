@@ -41,6 +41,9 @@
     "sr": "Umereno povećava kapacitet municije kompatibilnog oružja koje koristi srednju municiju. Kompatibilno sa: Arpeggio, Renegade, Venator, Tempest, Torrente"
   },
   "type": "Modification",
+  "categories": [
+    "Modification"
+  ],
   "rarity": "Uncommon",
   "value": 2000,
   "weightKg": 0.5,

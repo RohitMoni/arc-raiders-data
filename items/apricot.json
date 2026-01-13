@@ -41,6 +41,9 @@
     "sr": "Suncem dozrela kajsija. Može se konzumirati za malu količinu izdržljivosti."
   },
   "type": "Nature",
+  "categories": [
+    "Nature"
+  ],
   "rarity": "Uncommon",
   "value": 640,
   "recyclesInto": {

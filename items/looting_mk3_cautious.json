@@ -41,6 +41,9 @@
     "sr": "Nadogradnja za pljačkanje koja zamenjuje deo nosivosti za povećanje preživljavanja. Kod probijanja Štita, automatski primenjuje slabu Injekciju Adrenalina. Ima fiksno vreme ponovnog punjenja."
   },
   "type": "Augment",
+  "categories": [
+    "Augment"
+  ],
   "rarity": "Epic",
   "value": 5000,
   "weightKg": 3,

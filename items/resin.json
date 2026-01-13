@@ -22,6 +22,9 @@
   },
   "rarity": "Common",
   "type": "Nature",
+  "categories": [
+    "Nature"
+  ],
   "description": {
     "en": "Can be used to gradually restore a small amount of health over time.",
     "de": "Kann verwendet werden, um im Laufe der Zeit allmählich eine kleine Menge Gesundheit wiederherzustellen.",

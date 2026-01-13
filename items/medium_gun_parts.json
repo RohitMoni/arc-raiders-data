@@ -41,6 +41,9 @@
     "sr": "Razni rezervni delovi za puške. Koristi se za izradu: Torrente, Venator, Osprey, Renegade, Tempest"
   },
   "type": "Topside Material",
+  "categories": [
+    "Topside Material"
+  ],
   "rarity": "Rare",
   "value": 700,
   "recyclesInto": {

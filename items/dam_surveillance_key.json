@@ -41,6 +41,9 @@
     "sr": "Otključava vrata u zgradi Kontrole Prečišćavanja Vode na Bojnom Polju Brane."
   },
   "type": "Key",
+  "categories": [
+    "Key"
+  ],
   "value": 100,
   "rarity": "Uncommon",
   "weightKg": 0.25,

@@ -21,6 +21,9 @@
     "sr": "Teški Štit"
   },
   "type": "Shield",
+  "categories": [
+    "Shield"
+  ],
   "rarity": "Epic",
   "description": {
     "en": "A heavy shield that blocks a large portion of incoming damage, but carries a significant cost to mobility.",

@@ -41,6 +41,9 @@
   },
   "id": "deadline",
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "value": 5000,
   "rarity": "Epic",
   "weightKg": 1,

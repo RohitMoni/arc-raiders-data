@@ -41,6 +41,9 @@
   },
   "id": "magnetron",
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "rarity": "Epic",
   "weightKg": 1.5,
   "stackSize": 3,

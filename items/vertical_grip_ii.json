@@ -41,6 +41,9 @@
     "sr": "Umereno smanjuje vertikalni trzaj. Kompatibilno sa: Arpeggio, Ferro, Venator, Il Toro, Stitcher"
   },
   "type": "Modification",
+  "categories": [
+    "Modification"
+  ],
   "rarity": "Uncommon",
   "value": 2000,
   "weightKg": 0.5,

@@ -198,6 +198,9 @@
     "da": "Lever-action kampriffel med høj skadeeffekt, præcision og hovedskudsskade."
   },
   "type": "Battle Rifle",
+  "categories": [
+    "Battle Rifle"
+  ],
   "rarity": "Rare",
   "damage": 35,
   "fireRate": 21,

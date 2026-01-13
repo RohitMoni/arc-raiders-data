@@ -41,6 +41,9 @@
     "sr": "Laserska žica zamka koja aktivira dimnu granatu."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "rarity": "Rare",
   "weightKg": 0.3,
   "stackSize": 3,

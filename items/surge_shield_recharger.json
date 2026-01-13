@@ -41,6 +41,9 @@
     "sr": "Ručni komplet koji puni štit pri korišćenju."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "value": 1200,
   "rarity": "Rare",
   "weightKg": 0.2,

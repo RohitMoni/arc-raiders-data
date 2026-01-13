@@ -41,6 +41,9 @@
     "sr": "Osnovno borbeno poboljšanje. Podržava jače štitove, ali sa ograničenim kapacitetom ranca i mestima za brzu upotrebu."
   },
   "type": "Augment",
+  "categories": [
+    "Augment"
+  ],
   "rarity": "Uncommon",
   "value": 640,
   "recyclesInto": {

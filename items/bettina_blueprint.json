@@ -41,6 +41,9 @@
     "sr": "Ima sporu brzinu paljbe i visoku štetu."
   },
   "type": "Blueprint",
+  "categories": [
+    "Blueprint"
+  ],
   "value": 5000,
   "weightKg": 0,
   "rarity": "Legendary",

@@ -41,6 +41,9 @@
     "sr": "Uređaj za buku koji se lepi na površine, odvlačeći pažnju obližnjih ARC mašina i privlačeći njihovu vatru."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "rarity": "Uncommon",
   "value": 1000,
   "weightKg": 0.4,

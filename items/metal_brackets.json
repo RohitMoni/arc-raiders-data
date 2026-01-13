@@ -41,6 +41,9 @@
     "sr": "Može se reciklirati u metalne delove."
   },
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "rarity": "Uncommon",
   "value": 640,
   "recyclesInto": {

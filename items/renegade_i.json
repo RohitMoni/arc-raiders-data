@@ -41,6 +41,9 @@
     "sr": "Ima visoku štetu, preciznost i štetu od pogotka u glavu."
   },
   "type": "Battle Rifle",
+  "categories": [
+    "Battle Rifle"
+  ],
   "rarity": "Rare",
   "effects": {
     "Durability": {

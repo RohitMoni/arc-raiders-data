@@ -41,6 +41,9 @@
     "sr": "Naprava koja omogućava korisniku da se sakrije od ARC-a."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "rarity": "Epic",
   "value": 5000,
   "weightKg": 1,

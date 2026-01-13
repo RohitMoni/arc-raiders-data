@@ -41,6 +41,9 @@
     "sr": "Ima sporu brzinu pucanja i visoku štetu."
   },
   "type": "Assault Rifle",
+  "categories": [
+    "Assault Rifle"
+  ],
   "value": 14000,
   "rarity": "Epic",
   "weightKg": 11,

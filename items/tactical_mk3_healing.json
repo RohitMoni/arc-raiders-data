@@ -41,6 +41,9 @@
     "sr": "Nadogradnja fokusirana na lečenje koja dodaje dodatne slotove za predmete lečenja. Kada se oživite nakon obaranja, oslobađa oblak lečenja koji vraća 20 zdravlja tokom 10 sekundi. Ima vreme ponovnog punjenja od 30 sekundi."
   },
   "type": "Augment",
+  "categories": [
+    "Augment"
+  ],
   "rarity": "Epic",
   "recyclesInto": {
     "advanced_electrical_components": 1,

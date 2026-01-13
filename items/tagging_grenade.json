@@ -41,6 +41,9 @@
     "sr": "Granata koja detonira nakon odlaganja, označavajući Razbojnike i ARC neprijatelje u području, omogućavajući vam da kratko pratite njihovu lokaciju."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "rarity": "Rare",
   "value": 1000,
   "recyclesInto": {

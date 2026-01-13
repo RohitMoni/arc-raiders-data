@@ -41,6 +41,9 @@
     "sr": "Razni rezervni delovi koji se koriste za pištolje i automatske pištolje."
   },
   "type": "Blueprint",
+  "categories": [
+    "Blueprint"
+  ],
   "value": 5000,
   "weightKg": 0,
   "stackSize": 1,

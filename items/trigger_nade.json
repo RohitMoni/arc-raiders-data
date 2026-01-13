@@ -41,6 +41,9 @@
     "sr": "Granata sa daljinskom detonacijom koja se može zalepiti za površine i ARC, nanoseći eksplozivnu štetu kada se aktivira."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "rarity": "Rare",
   "value": 1000,
   "weightKg": 0.4,

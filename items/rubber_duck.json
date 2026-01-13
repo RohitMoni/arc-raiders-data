@@ -41,6 +41,9 @@
     "sr": "Uvek tu da sasluša kada ti treba. Može se baciti da stvori buku."
   },
   "type": "Trinket",
+  "categories": [
+    "Trinket"
+  ],
   "rarity": "Common",
   "value": 1000,
   "recyclesInto": {},

@@ -41,6 +41,9 @@
     "sr": "Bez svetla, život pod zemljom bi bio nemoguć."
   },
   "type": "Trinket",
+  "categories": [
+    "Trinket"
+  ],
   "value": 2000,
   "updatedAt": "11/01/2025",
   "rarity": "Uncommon",

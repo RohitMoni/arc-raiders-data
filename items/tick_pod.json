@@ -42,6 +42,9 @@
   },
   "value": 640,
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "rarity": "Uncommon",
   "imageFilename": "https://cdn.arctracker.io/items/tick_pod.png",
   "recyclesInto": {

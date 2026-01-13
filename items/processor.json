@@ -41,6 +41,9 @@
     "sr": "Koristi se u izradi. Koristi se za izradu: Taktički Mk. 3 (Odbrambeni), Borbeni Mk. 3 (Bočni), Borbeni Mk. 3 (Agresivni), Pljačkaški Mk. 3 (Oprezni), Taktički Mk. 3 (Lečeći)"
   },
   "type": "Topside Material",
+  "categories": [
+    "Topside Material"
+  ],
   "rarity": "Rare",
   "value": 500,
   "recyclesInto": {

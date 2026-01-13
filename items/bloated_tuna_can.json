@@ -41,6 +41,9 @@
     "sr": "Nešto ti govori da ne želiš da otvoriš ovo... Može se (nevoljno) konzumirati za obnovu male količine izdržljivosti."
   },
   "type": "Trinket",
+  "categories": [
+    "Trinket"
+  ],
   "value": 1000,
   "effects": {
     "Stamina": {

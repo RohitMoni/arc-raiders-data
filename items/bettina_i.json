@@ -41,6 +41,9 @@
     "hr": "Ima sporu brzinu paljbe i visoku izlaznu štetu."
   },
   "type": "Assault Rifle",
+  "categories": [
+    "Assault Rifle"
+  ],
   "value": 8000,
   "rarity": "Epic",
   "weightKg": 11,

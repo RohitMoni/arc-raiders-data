@@ -22,6 +22,9 @@
   },
   "rarity": "Rare",
   "type": "Topside Material",
+  "categories": [
+    "Topside Material"
+  ],
   "value": 500,
   "recyclesInto": {
     "fabric": 5

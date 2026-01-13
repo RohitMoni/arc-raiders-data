@@ -41,6 +41,9 @@
     "sr": "Mina aktivirana blizinom koja iskoči i omami sve unutar svog radijusa."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "rarity": "Rare",
   "value": 850,
   "weightKg": 0.2,

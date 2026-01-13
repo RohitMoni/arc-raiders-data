@@ -180,6 +180,9 @@
     "da": "Affyrer eksplosive projektiler, der kun detonerer ved træf på ARC."
   },
   "type": "Special",
+  "categories": [
+    "Special"
+  ],
   "rarity": "Epic",
   "damage": 100,
   "fireRate": 20.3,

@@ -41,6 +41,9 @@
     "sr": "Neki Rajderi je koriste za vežbanje spretnosti. Drugi jednostavno vole da bacaju stvari u druge stvari."
   },
   "type": "Trinket",
+  "categories": [
+    "Trinket"
+  ],
   "rarity": "Uncommon",
   "weightKg": 1,
   "stackSize": 3,

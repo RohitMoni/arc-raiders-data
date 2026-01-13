@@ -41,6 +41,9 @@
     "sr": "Umereno povećava kapacitet municije sačmarica. Kompatibilno sa: Il Toro, Vulcano"
   },
   "type": "Modification",
+  "categories": [
+    "Modification"
+  ],
   "value": 2000,
   "rarity": "Uncommon",
   "weightKg": 0.5,

@@ -22,6 +22,9 @@
   },
   "rarity": "Rare",
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "value": 1000,
   "recyclesInto": {
     "plastic_parts": 7,

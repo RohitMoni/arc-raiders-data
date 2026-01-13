@@ -41,6 +41,9 @@
     "sr": "Umereno povecava brzinu metka. Kompatibilno sa: Tempest, Arpeggio, Ferro, Renegade, Anvil"
   },
   "type": "Blueprint",
+  "categories": [
+    "Blueprint"
+  ],
   "rarity": "Legendary",
   "value": 5000,
   "weightKg": 0,

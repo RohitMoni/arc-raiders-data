@@ -41,6 +41,9 @@
     "sr": "Otključava vrata u Kontrolnom Tornju A6 u Svemirskoj Luci"
   },
   "type": "Key",
+  "categories": [
+    "Key"
+  ],
   "value": 100,
   "rarity": "Rare",
   "weightKg": 0.25,

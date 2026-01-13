@@ -41,6 +41,9 @@
     "sr": "Ima ugrađeni prigušivač. Odličan za prikradanje, ali nezgodan u borbi."
   },
   "type": "Pistol",
+  "categories": [
+    "Pistol"
+  ],
   "rarity": "Common",
   "effects": {
     "Durability": {

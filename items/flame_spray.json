@@ -41,6 +41,9 @@
     "sr": "Klasično improvizovano oružje, sigurno će ostaviti tragove opeklina."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "rarity": "Uncommon",
   "value": 640,
   "weightKg": 1,

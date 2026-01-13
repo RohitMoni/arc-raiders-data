@@ -41,6 +41,9 @@
     "sr": "Umereno smanjuje osnovnu rasprsenost. Kompatibilno sa: Il Toro, Vulcano"
   },
   "type": "Blueprint",
+  "categories": [
+    "Blueprint"
+  ],
   "rarity": "Legendary",
   "value": 5000,
   "weightKg": 0,

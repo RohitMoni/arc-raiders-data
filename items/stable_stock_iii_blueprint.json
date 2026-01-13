@@ -41,6 +41,9 @@
     "sr": "Znacajno poboljsava rasprsenje i vreme oporavka trzaja."
   },
   "type": "Blueprint",
+  "categories": [
+    "Blueprint"
+  ],
   "rarity": "Legendary",
   "value": 5000,
   "weightKg": 0,

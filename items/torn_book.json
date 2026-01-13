@@ -41,6 +41,9 @@
     "sr": "Preostale stranice govore o herojima, vampirima i mnogo pogleda."
   },
   "type": "Trinket",
+  "categories": [
+    "Trinket"
+  ],
   "rarity": "Common",
   "value": 1000,
   "recyclesInto": {},

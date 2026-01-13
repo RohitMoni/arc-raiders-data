@@ -41,6 +41,9 @@
     "sr": "Kanister sintetičke mešavine goriva."
   },
   "type": "Topside Material",
+  "categories": [
+    "Topside Material"
+  ],
   "rarity": "Rare",
   "value": 700,
   "weightKg": 0.5,

@@ -41,6 +41,9 @@
     "sr": "Medicinski predmet koji obnavlja veliku količinu zdravlja."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "value": 2200,
   "rarity": "Rare",
   "weightKg": 0.4,

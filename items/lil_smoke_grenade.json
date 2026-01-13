@@ -41,6 +41,9 @@
     "sr": "Granata koja stvara gust ali mali oblak dima pri udaru, blokirajući vidljivost od ARC-a i drugih Rajdera."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "value": 300,
   "rarity": "Common",
   "recyclesInto": {

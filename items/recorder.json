@@ -22,6 +22,9 @@
   },
   "rarity": "Uncommon",
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "value": 1000,
   "recyclesInto": {
     "plastic_parts": 10

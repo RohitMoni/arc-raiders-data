@@ -22,6 +22,9 @@
   },
   "rarity": "Rare",
   "type": "Topside Material",
+  "categories": [
+    "Topside Material"
+  ],
   "value": 700,
   "recyclesInto": {
     "simple_gun_parts": 2

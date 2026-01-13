@@ -41,6 +41,9 @@
     "sr": "Ima veliko rasipanje metaka, oštar pad štete i visoku izlaznu štetu."
   },
   "type": "Shotgun",
+  "categories": [
+    "Shotgun"
+  ],
   "rarity": "Uncommon",
   "effects": {
     "Durability": {

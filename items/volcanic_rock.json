@@ -22,6 +22,9 @@
   },
   "rarity": "Common",
   "type": "Misc",
+  "categories": [
+    "Misc"
+  ],
   "value": 270,
   "recyclesInto": {},
   "description": {

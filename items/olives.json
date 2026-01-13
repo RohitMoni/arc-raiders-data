@@ -22,6 +22,9 @@
   },
   "rarity": "Uncommon",
   "type": "Nature",
+  "categories": [
+    "Nature"
+  ],
   "value": 640,
   "recyclesInto": {
     "assorted_seeds": 2

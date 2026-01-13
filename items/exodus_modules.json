@@ -41,6 +41,9 @@
     "sr": "Koristi se za izradu širokog spektra predmeta. Koristi se za izradu: Tempest, Vulcano, Hullcracker, Bobcat, Snap Hook"
   },
   "type": "Topside Material",
+  "categories": [
+    "Topside Material"
+  ],
   "rarity": "Epic",
   "weightKg": 1,
   "stackSize": 3,

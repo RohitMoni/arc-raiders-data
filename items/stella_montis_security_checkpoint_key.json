@@ -41,6 +41,9 @@
   },
   "id": "stella_montis_security_checkpoint_key",
   "type": "Key",
+  "categories": [
+    "Key"
+  ],
   "rarity": "Rare",
   "value": 100,
   "weightKg": 0.25,

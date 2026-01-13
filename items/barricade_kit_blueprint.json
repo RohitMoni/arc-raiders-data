@@ -41,6 +41,9 @@
     "sr": "Pokretni zaklon koji može blokirati dolaznu štetu dok se ne slomi."
   },
   "type": "Blueprint",
+  "categories": [
+    "Blueprint"
+  ],
   "value": 5000,
   "weightKg": 0,
   "imageFilename": "https://cdn.arctracker.io/items/barricade_kit.png",

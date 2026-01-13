@@ -22,6 +22,9 @@
   },
   "rarity": "Rare",
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "value": 2000,
   "recyclesInto": {
     "durable_cloth": 2,

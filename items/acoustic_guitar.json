@@ -41,6 +41,9 @@
     "sr": "Akustična gitara na kojoj se može svirati, koristi se za privlačenje ARC-ove pažnje i impresioniranje drugih Rajdera."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "rarity": "Legendary",
   "value": 7000,
   "recyclesInto": {},

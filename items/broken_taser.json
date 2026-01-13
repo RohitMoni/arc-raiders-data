@@ -42,6 +42,9 @@
   },
   "rarity": "Rare",
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "value": 1000,
   "recyclesInto": {
     "battery": 2,

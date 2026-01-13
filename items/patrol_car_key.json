@@ -41,6 +41,9 @@
     "sr": "Ključ patrolnog automobila."
   },
   "type": "Key",
+  "categories": [
+    "Key"
+  ],
   "rarity": "Uncommon",
   "value": 100,
   "stackSize": 1,

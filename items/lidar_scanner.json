@@ -41,6 +41,9 @@
   },
   "id": "lidar_scanner",
   "type": "Trinket",
+  "categories": [
+    "Trinket"
+  ],
   "weightKg": 0.25,
   "imageFilename": "https://cdn.arctracker.io/items/lidar_scanner.png",
   "rarity": "Common",

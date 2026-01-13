@@ -41,6 +41,9 @@
     "hr": "Umjereno smanjuje i vertikalni i horizontalni trzaj."
   },
   "type": "Modification",
+  "categories": [
+    "Modification"
+  ],
   "rarity": "Epic",
   "effects": {
     "Reduced Horizontal Recoil": {

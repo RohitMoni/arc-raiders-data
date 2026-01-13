@@ -21,6 +21,9 @@
     "sr": "Laki Štit"
   },
   "type": "Shield",
+  "categories": [
+    "Shield"
+  ],
   "rarity": "Uncommon",
   "description": {
     "en": "A lightweight shield that blocks a small portion of incoming damage without impacting mobility.",

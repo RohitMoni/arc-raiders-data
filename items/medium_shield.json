@@ -21,6 +21,9 @@
     "sr": "Srednji Štit"
   },
   "type": "Shield",
+  "categories": [
+    "Shield"
+  ],
   "rarity": "Rare",
   "description": {
     "en": "A standard shield that blocks a medium portion of incoming damage at a moderate cost to mobility.",

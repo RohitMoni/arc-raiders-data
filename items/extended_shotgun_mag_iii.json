@@ -41,6 +41,9 @@
     "hr": "Značajno proširuje kapacitet municije za sačmare. Kompatibilno s: Il Toro, Vulcano"
   },
   "type": "Modification",
+  "categories": [
+    "Modification"
+  ],
   "value": 5000,
   "rarity": "Rare",
   "weightKg": 0.75,

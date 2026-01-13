@@ -41,6 +41,9 @@
     "sr": "Posle svog ovog vremena, još uvek možeš osetiti dobrotu."
   },
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "rarity": "Rare",
   "value": 640,
   "recyclesInto": {

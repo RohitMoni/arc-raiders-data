@@ -41,6 +41,9 @@
     "sr": "Dobija se od ARC neprijatelja ili aktivnosti. Koristi se za izradu komponenti. Može se reciklirati u ARC Leguru. Koristi se za izradu: Magnetski Akcelerator"
   },
   "type": "Topside Material",
+  "categories": [
+    "Topside Material"
+  ],
   "rarity": "Rare",
   "value": 1000,
   "recyclesInto": {

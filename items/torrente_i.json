@@ -41,6 +41,9 @@
     "hr": "Ima veliki kapacitet streljiva, ali je precizno samo dok ste u čučnju."
   },
   "type": "LMG",
+  "categories": [
+    "LMG"
+  ],
   "rarity": "Rare",
   "value": 7000,
   "effects": {

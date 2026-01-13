@@ -41,6 +41,9 @@
     "sr": "Ima pristojnu štetu i preciznost."
   },
   "type": "Assault Rifle",
+  "categories": [
+    "Assault Rifle"
+  ],
   "rarity": "Uncommon",
   "imageFilename": "https://cdn.arctracker.io/items/arpeggio.png",
   "updatedAt": "11/11/2025",

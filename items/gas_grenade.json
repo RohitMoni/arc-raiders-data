@@ -41,6 +41,9 @@
     "sr": "Granata koja pri udaru ispušta dugotrajni otrovni oblak, iscrpljujući izdržljivost svih pljačkaša unutar svog područja dejstva."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "rarity": "Common",
   "value": 270,
   "recyclesInto": {

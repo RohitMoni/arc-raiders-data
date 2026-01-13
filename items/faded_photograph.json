@@ -41,6 +41,9 @@
     "sr": "Snimak sveta od ranije, izbledeo od sunčeve svetlosti i vremena."
   },
   "type": "Trinket",
+  "categories": [
+    "Trinket"
+  ],
   "rarity": "Common",
   "value": 640,
   "recyclesInto": {},

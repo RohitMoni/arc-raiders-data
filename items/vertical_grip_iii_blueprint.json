@@ -41,6 +41,9 @@
     "hr": "Značajno smanjuje okomiti trzaj."
   },
   "type": "Blueprint",
+  "categories": [
+    "Blueprint"
+  ],
   "value": 5000,
   "stackSize": 1,
   "weightKg": 0,

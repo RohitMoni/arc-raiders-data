@@ -41,6 +41,9 @@
     "sr": "Hemijsko svetlo za bacanje koje osvetljava područje oko sebe."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "rarity": "Common",
   "value": 150,
   "weightKg": 0.75,

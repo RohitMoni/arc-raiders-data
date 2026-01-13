@@ -41,6 +41,9 @@
     "sr": "Možda vredi nekoliko novčića."
   },
   "type": "Trinket",
+  "categories": [
+    "Trinket"
+  ],
   "rarity": "Uncommon",
   "value": 2000,
   "recyclesInto": {},

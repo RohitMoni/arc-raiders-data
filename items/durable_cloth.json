@@ -41,6 +41,9 @@
     "sr": "Koristi se za izradu medicinskih potrepština. Koristi se za izradu: Biljni Zavoj, Sterilizovani Zavoj"
   },
   "type": "Refined Material",
+  "categories": [
+    "Refined Material"
+  ],
   "rarity": "Uncommon",
   "foundIn": "Medical, Commercial",
   "stackSize": 10,

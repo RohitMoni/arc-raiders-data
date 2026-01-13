@@ -41,6 +41,9 @@
     "sr": "Потпуно аутоматска јуришна пушка са умереном брзином паљбе и прецизношћу."
   },
   "type": "Assault Rifle",
+  "categories": [
+    "Assault Rifle"
+  ],
   "rarity": "Epic",
   "effects": {
     "Durability": {

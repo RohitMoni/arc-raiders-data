@@ -41,6 +41,9 @@
     "sr": "Ritmički instrument koji se koristi za privlačenje pažnje ARC-a i impresioniranje drugih Raidera."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "rarity": "Uncommon",
   "foundIn": "Residential",
   "weightKg": 0.2,

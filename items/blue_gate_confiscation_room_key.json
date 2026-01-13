@@ -41,6 +41,9 @@
     "sr": "Otključava vrata prostora za zaplenjenu robu unutar tunela Plavih Vrata"
   },
   "type": "Key",
+  "categories": [
+    "Key"
+  ],
   "rarity": "Epic",
   "weightKg": 0.25,
   "imageFilename": "https://cdn.arctracker.io/items/blue_gate_confiscation_room_key.png",

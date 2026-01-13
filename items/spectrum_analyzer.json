@@ -41,6 +41,9 @@
   },
   "id": "spectrum_analyzer",
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "value": 3500,
   "rarity": "Epic",
   "weightKg": 1.5,

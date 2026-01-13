@@ -41,6 +41,9 @@
     "sr": "Serum koji potpuno obnavlja izdržljivost i privremeno povećava regeneraciju izdržljivosti."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "value": 300,
   "rarity": "Common",
   "recyclesInto": {

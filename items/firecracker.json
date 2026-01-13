@@ -41,6 +41,9 @@
     "sr": "Uređaj koji prijatno varniči i puca."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "rarity": "Common",
   "value": 270,
   "recyclesInto": {

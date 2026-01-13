@@ -41,6 +41,9 @@
     "sr": "Cenjen zbog fine izrade i neprisiljene sposobnosti da istakne vaše oči."
   },
   "type": "Trinket",
+  "categories": [
+    "Trinket"
+  ],
   "value": 5000,
   "recyclesInto": {},
   "updatedAt": "11/04/2025",

@@ -41,6 +41,9 @@
     "sr": "Improvizirana granata sa upaljačem koja pri detonaciji puca oštrim fragmentima. Slaba protiv ARC oklopnih ploča"
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "rarity": "Uncommon",
   "value": 800,
   "recyclesInto": {

@@ -41,6 +41,9 @@
     "sr": "Set hemijskih reagenasa korišćenih u laboratorijskim eksperimentima."
   },
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "rarity": "Rare",
   "value": 2000,
   "weightKg": 3,

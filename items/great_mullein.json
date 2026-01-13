@@ -22,6 +22,9 @@
   },
   "rarity": "Uncommon",
   "type": "Topside Material",
+  "categories": [
+    "Topside Material"
+  ],
   "value": 300,
   "recyclesInto": {
     "assorted_seeds": 2

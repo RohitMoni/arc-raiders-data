@@ -22,6 +22,9 @@
   },
   "rarity": "Uncommon",
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "value": 640,
   "recyclesInto": {
     "crude_explosives": 1,

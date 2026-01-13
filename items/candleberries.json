@@ -41,6 +41,9 @@
     "sr": "Voštana bobica koja raste samo u kratkom periodu svake godine. Ljudi su je oduvijek koristili za izradu sveća, hrane i lekova."
   },
   "type": "Nature",
+  "categories": [
+    "Nature"
+  ],
   "rarity": "Rare",
   "value": 460,
   "recyclesInto": {

@@ -41,6 +41,9 @@
     "es": "Una version mejorada del aumento Combate II. Disenada para maniobras de flanqueo con movilidad mejorada."
   },
   "type": "Augment",
+  "categories": [
+    "Augment"
+  ],
   "rarity": "Epic",
   "effects": {
     "Health Regeneration": {

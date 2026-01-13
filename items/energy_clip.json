@@ -41,6 +41,9 @@
     "sr": "Kompatibilno sa: Equalizer, Jupiter"
   },
   "type": "Ammunition",
+  "categories": [
+    "Ammunition"
+  ],
   "compatibleWith": [
     "Equalizer",
     "Jupiter"

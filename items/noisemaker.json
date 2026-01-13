@@ -41,6 +41,9 @@
     "sr": "Postavljivi senzor blizine koji aktivira alarm kada se otkriju neprijateljski Rajderi."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "rarity": "Common",
   "value": 640,
   "weightKg": 0.3,

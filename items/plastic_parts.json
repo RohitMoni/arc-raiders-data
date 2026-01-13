@@ -41,6 +41,9 @@
     "it": "Si usa per creare una vasta gamma di oggetti. Si usa per creare: Tornante, Scudo leggero, Saccheggio Mk. 1, Granata a impatto leggera, Caricatore esteso fucile I"
   },
   "type": "Basic Material",
+  "categories": [
+    "Basic Material"
+  ],
   "rarity": "Common",
   "value": 60,
   "recyclesInto": {},

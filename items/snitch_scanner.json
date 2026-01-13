@@ -41,6 +41,9 @@
     "sr": "Može se reciklirati u ARC leguru. Može se baciti kako bi se pozvao ARC."
   },
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "rarity": "Uncommon",
   "value": 2000,
   "recyclesInto": {

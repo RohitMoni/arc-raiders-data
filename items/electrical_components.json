@@ -41,6 +41,9 @@
     "sr": "Koristi se za izradu širokog spektra predmeta. Može se reciklirati u materijale za izradu. Koristi se za izradu: Tactical Mk. 2, Combat Mk. 2, Looting Mk. 2, Surge Shield Recharger, Lure Granata"
   },
   "type": "Refined Material",
+  "categories": [
+    "Refined Material"
+  ],
   "value": 640,
   "recyclesInto": {
     "plastic_parts": 3,

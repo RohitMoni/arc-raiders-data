@@ -41,6 +41,9 @@
     "sr": "Ručni top jednostrukog okidanja sa visokom štetom i štetom pri pogotku u glavu, ali sporim rukovanjem."
   },
   "type": "Hand Cannon",
+  "categories": [
+    "Hand Cannon"
+  ],
   "rarity": "Uncommon",
   "effects": {
     "Durability": {

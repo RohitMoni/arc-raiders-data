@@ -41,6 +41,9 @@
     "hr": "Augmentacija fokusirana na liječenje koja dodaje dodatne slotove za ljekovite predmete."
   },
   "type": "Blueprint",
+  "categories": [
+    "Blueprint"
+  ],
   "value": 5000,
   "weightKg": 0,
   "imageFilename": "https://cdn.arctracker.io/items/tactical_mk3_healing_blueprint.png",

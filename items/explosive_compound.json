@@ -41,6 +41,9 @@
     "sr": "Koristi se za izradu eksploziva. Koristi se za izradu: Wolfpack, Eksplozivna mina, Blaze granata, Teška Fuze granata"
   },
   "type": "Refined Material",
+  "categories": [
+    "Refined Material"
+  ],
   "rarity": "Rare",
   "value": 1000,
   "weightKg": 0.3,

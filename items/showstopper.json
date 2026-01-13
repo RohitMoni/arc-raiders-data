@@ -41,6 +41,9 @@
     "sr": "Granata koja detonira nakon odlaganja, omamljujući neprijatelje u svom radijusu."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "rarity": "Rare",
   "value": 2200,
   "weightKg": 0.4,

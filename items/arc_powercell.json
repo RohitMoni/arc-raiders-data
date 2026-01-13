@@ -41,6 +41,9 @@
     "sr": "Vredan resurs koji ispuštaju svi ARC neprijatelji. Koristi se za izradu: Punjač Štita Može se koristiti za popravku štitova."
   },
   "type": "Topside Material",
+  "categories": [
+    "Topside Material"
+  ],
   "rarity": "Common",
   "value": 270,
   "recyclesInto": {},

@@ -41,6 +41,9 @@
     "sr": "Vredi malo bogatstvo."
   },
   "type": "Trinket",
+  "categories": [
+    "Trinket"
+  ],
   "value": 3000,
   "recyclesInto": {},
   "updatedAt": "11/04/2025",

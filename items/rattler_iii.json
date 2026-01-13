@@ -41,6 +41,9 @@
     "sr": "Jeftina ofanzivna opcija, ali se mora puniti po 2 metka odjednom."
   },
   "type": "Assault Rifle",
+  "categories": [
+    "Assault Rifle"
+  ],
   "rarity": "Common",
   "effects": {
     "Durability": {

@@ -41,6 +41,9 @@
     "sr": "Koristi se za izradu. Koristi se za izradu: Teški Štit, Showstopper"
   },
   "type": "Topside Material",
+  "categories": [
+    "Topside Material"
+  ],
   "rarity": "Rare",
   "value": 500,
   "imageFilename": "https://cdn.arctracker.io/items/voltage_converter.png",

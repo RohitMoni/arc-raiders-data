@@ -41,6 +41,9 @@
     "sr": "Moglo bi vredeti nekoliko novčića."
   },
   "type": "Nature",
+  "categories": [
+    "Nature"
+  ],
   "rarity": "Uncommon",
   "value": 1000,
   "recyclesInto": {

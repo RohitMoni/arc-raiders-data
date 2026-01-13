@@ -41,6 +41,9 @@
     "sr": "Vredi malo bogatstvo."
   },
   "type": "Trinket",
+  "categories": [
+    "Trinket"
+  ],
   "rarity": "Rare",
   "value": 5000,
   "recyclesInto": {},

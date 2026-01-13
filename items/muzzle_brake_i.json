@@ -41,6 +41,9 @@
     "sr": "Blago smanjuje vertikalni i horizontalni trzaj. Kompatibilno sa: Rattler, Ferro, Burletta, Stitcher, Tempest"
   },
   "type": "Modification",
+  "categories": [
+    "Modification"
+  ],
   "rarity": "Common",
   "value": 640,
   "recyclesInto": {

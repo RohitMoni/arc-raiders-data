@@ -41,6 +41,9 @@
     "sr": "Borbeno poboljšanje više usmereno na manevarsku sposobnost nego na apsorpciju štete."
   },
   "type": "Augment",
+  "categories": [
+    "Augment"
+  ],
   "rarity": "Rare",
   "value": 2000,
   "imageFilename": "https://cdn.arctracker.io/items/combat_i.png",

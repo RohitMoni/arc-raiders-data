@@ -41,6 +41,9 @@
     "sr": "Mogu se reciklirati u materijale za izradu."
   },
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "rarity": "Uncommon",
   "value": 640,
   "weightKg": 0.8,

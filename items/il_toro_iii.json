@@ -180,6 +180,9 @@
     "da": "Pumphagl med stor spredning, kraftigt fald og høj skadeeffekt."
   },
   "type": "Shotgun",
+  "categories": [
+    "Shotgun"
+  ],
   "rarity": "Uncommon",
   "damage": 67.5,
   "fireRate": 14.3,

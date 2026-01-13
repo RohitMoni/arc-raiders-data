@@ -41,6 +41,9 @@
     "sr": "Odbrambeno usmerena nadogradnja koja pomaže da štitovi ostanu puni."
   },
   "type": "Augment",
+  "categories": [
+    "Augment"
+  ],
   "rarity": "Epic",
   "recyclesInto": {
     "advanced_electrical_components": 1,

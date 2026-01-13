@@ -41,6 +41,9 @@
   },
   "id": "ruined_tactical_vest",
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "rarity": "Uncommon",
   "value": 640,
   "recyclesInto": {

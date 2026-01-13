@@ -41,6 +41,9 @@
     "sr": "Improvizovana medicinska stavka koja postepeno obnavlja zdravlje tokom vremena."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "value": 900,
   "rarity": "Uncommon",
   "weightKg": 0.15,

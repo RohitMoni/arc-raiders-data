@@ -41,6 +41,9 @@
     "sr": "Poluautomatski pištolj sa pristojnom štetom i preciznošću. Može se ispaljivati onoliko brzo koliko možete povlačiti okidač."
   },
   "type": "Pistol",
+  "categories": [
+    "Pistol"
+  ],
   "rarity": "Uncommon",
   "value": 5000,
   "weightKg": 4,

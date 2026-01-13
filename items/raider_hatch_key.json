@@ -21,6 +21,9 @@
     "sr": "Ključ Rejderskog Otvora"
   },
   "type": "Key",
+  "categories": [
+    "Key"
+  ],
   "description": {
     "en": "Unlocks a Raider Hatch.",
     "de": "Öffnet eine Raider-Luke.",

@@ -41,6 +41,9 @@
   },
   "id": "flow_controller",
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "rarity": "Rare",
   "value": 3000,
   "weightKg": 1.5,

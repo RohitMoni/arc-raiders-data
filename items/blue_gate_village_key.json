@@ -41,6 +41,9 @@
     "sr": "Ključ za oblasti unutar sela plavog portala."
   },
   "type": "Key",
+  "categories": [
+    "Key"
+  ],
   "rarity": "Uncommon",
   "value": 100,
   "weightKg": 0.25,

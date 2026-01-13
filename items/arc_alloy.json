@@ -41,6 +41,9 @@
     "sr": "Dobija se od ARC neprijatelja ili aktivnosti, ili recikliranjem određenih ARC delova. Koristi se za izradu komponenti. Koristi se za izradu: Lagani štit, ARC jezgro pokreta, ARC sklopovi"
   },
   "type": "Topside Material",
+  "categories": [
+    "Topside Material"
+  ],
   "rarity": "Uncommon",
   "value": 200,
   "recyclesInto": {

@@ -41,6 +41,9 @@
   },
   "id": "first_wave_tape",
   "type": "Trinket",
+  "categories": [
+    "Trinket"
+  ],
   "weightKg": 0.25,
   "imageFilename": "https://cdn.arctracker.io/items/first_wave_tape.png",
   "rarity": "Common",

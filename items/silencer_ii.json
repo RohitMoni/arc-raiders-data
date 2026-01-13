@@ -41,6 +41,9 @@
     "sr": "Umereno smanjuje količinu buke proizvedene pri pucanju. Kompatibilno sa: Arpeggio, Ferro, Renegade, Anvil, Stitcher"
   },
   "type": "Modification",
+  "categories": [
+    "Modification"
+  ],
   "rarity": "Rare",
   "value": 5000,
   "weightKg": 0.5,

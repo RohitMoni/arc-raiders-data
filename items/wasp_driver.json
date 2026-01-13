@@ -42,6 +42,9 @@
     "sr": "Može se reciklirati u ARC leguru. Može se baciti i eksplodiraće ako se pogodi."
   },
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "rarity": "Rare",
   "value": 1000,
   "recyclesInto": {

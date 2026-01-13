@@ -41,6 +41,9 @@
     "sr": "Prenosni uređaj za filtriranje i prečišćavanje vode."
   },
   "type": "Recyclable",
+  "categories": [
+    "Recyclable"
+  ],
   "rarity": "Rare",
   "value": 1000,
   "weightKg": 2,

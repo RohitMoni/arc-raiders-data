@@ -41,6 +41,9 @@
     "sr": "Ključ za podrum u plavom portalu."
   },
   "type": "Key",
+  "categories": [
+    "Key"
+  ],
   "rarity": "Uncommon",
   "value": 100,
   "weightKg": 0.25,

@@ -41,6 +41,9 @@
     "sr": "Ima dobro rasipanje metaka ali oštar pad."
   },
   "type": "Shotgun",
+  "categories": [
+    "Shotgun"
+  ],
   "rarity": "Epic",
   "damage": 58.5,
   "fireRate": 14.3,

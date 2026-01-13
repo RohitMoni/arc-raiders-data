@@ -41,6 +41,9 @@
     "sr": "Zadaje snažan udarac, ali se mora puniti nakon svakog hica."
   },
   "type": "Battle Rifle",
+  "categories": [
+    "Battle Rifle"
+  ],
   "rarity": "Common",
   "value": 2900,
   "durability": 130,

@@ -41,6 +41,9 @@
     "sr": "Otključava vrata u testnom aneksu na bojnom polju brane."
   },
   "type": "Key",
+  "categories": [
+    "Key"
+  ],
   "rarity": "Rare",
   "value": 100,
   "weightKg": 0.25,

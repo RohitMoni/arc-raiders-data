@@ -41,6 +41,9 @@
     "sr": "Granata koja stvara dugotrajan oblak dima pri udaru, blokirajući vidljivost ARC-u i drugim Raiderima."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "value": 1000,
   "rarity": "Rare",
   "recyclesInto": {

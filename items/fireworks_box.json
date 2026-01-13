@@ -41,6 +41,9 @@
     "sr": "Daljinski aktiviran raspored blještavog vatrometa, sigurno će napraviti predstavu."
   },
   "type": "Quick Use",
+  "categories": [
+    "Quick Use"
+  ],
   "rarity": "Rare",
   "value": 2000,
   "weightKg": 0.5,

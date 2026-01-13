@@ -41,6 +41,9 @@
     "hr": "Otključava vrata prema kulama rova u svemirskoj luci"
   },
   "type": "Key",
+  "categories": [
+    "Key"
+  ],
   "value": 100,
   "rarity": "Uncommon",
   "weightKg": 0.25,

@@ -41,6 +41,9 @@
     "sr": "Ima veliki kapacitet municije, ali je precizan samo dok ste čučeći."
   },
   "type": "LMG",
+  "categories": [
+    "LMG"
+  ],
   "value": 13000,
   "rarity": "Rare",
   "effects": {

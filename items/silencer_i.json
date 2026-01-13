@@ -41,6 +41,9 @@
     "sr": "Blago smanjuje količinu buke proizvedene pri pucanju."
   },
   "type": "Modification",
+  "categories": [
+    "Modification"
+  ],
   "updatedAt": "10/30/2025",
   "rarity": "Uncommon",
   "effects": {

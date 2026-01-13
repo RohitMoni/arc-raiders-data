@@ -41,6 +41,9 @@
     "sr": "Značajno povećava kapacitet streljiva kompatibilnog oružja koje koristi lako streljivo."
   },
   "type": "Modification",
+  "categories": [
+    "Modification"
+  ],
   "rarity": "Rare",
   "weightKg": 0.75,
   "effects": {

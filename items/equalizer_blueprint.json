@@ -41,6 +41,9 @@
     "da": "En eksperimentel stråleriffel med høj kapacitet."
   },
   "type": "Blueprint",
+  "categories": [
+    "Blueprint"
+  ],
   "rarity": "Legendary",
   "value": 5000,
   "weightKg": 0,

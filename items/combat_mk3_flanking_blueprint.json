@@ -41,6 +41,9 @@
     "es": "Una version mejorada del aumento Combate II. Disenada para maniobras de flanqueo con movilidad mejorada."
   },
   "type": "Blueprint",
+  "categories": [
+    "Blueprint"
+  ],
   "rarity": "Legendary",
   "value": 5000,
   "weightKg": 0,

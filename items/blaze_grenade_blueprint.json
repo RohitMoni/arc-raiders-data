@@ -41,6 +41,9 @@
     "sr": "Granata koja eksplodira pri udaru, prekrivajući područje vatrom koja nanosi štetu tokom vremena."
   },
   "type": "Blueprint",
+  "categories": [
+    "Blueprint"
+  ],
   "value": 5000,
   "weightKg": 0,
   "imageFilename": "https://cdn.arctracker.io/items/blaze_grenade.png",

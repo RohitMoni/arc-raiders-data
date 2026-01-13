@@ -41,6 +41,9 @@
     "sr": "Značajno smanjuje i vertikalni i horizontalni trzaj. Kompatibilno sa: Arpeggio, Ferro, Renegade, Anvil, Stitcher"
   },
   "type": "Modification",
+  "categories": [
+    "Modification"
+  ],
   "value": 5000,
   "rarity": "Rare",
   "weightKg": 0.75,

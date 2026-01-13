@@ -41,6 +41,9 @@
     "sr": "Mocno oruzje koje koristi tehnologiju magnetskog ubrzanja."
   },
   "type": "Blueprint",
+  "categories": [
+    "Blueprint"
+  ],
   "rarity": "Legendary",
   "value": 5000,
   "weightKg": 0,

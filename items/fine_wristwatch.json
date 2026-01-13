@@ -41,6 +41,9 @@
     "sr": "Savršen za očitavanje vremena i pokazivanje da ste izuzetno dostojanstvena osoba."
   },
   "type": "Trinket",
+  "categories": [
+    "Trinket"
+  ],
   "weightKg": 0.2,
   "stackSize": 3,
   "foundIn": "Residential, Commercial",
