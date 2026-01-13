@@ -42,7 +42,8 @@
   },
   "type": "Special",
   "categories": [
-    "Special"
+    "Special",
+    "Weapon"
   ],
   "rarity": "Legendary",
   "effects": {

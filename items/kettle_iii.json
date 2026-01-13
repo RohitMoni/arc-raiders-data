@@ -42,7 +42,8 @@
   },
   "type": "Assault Rifle",
   "categories": [
-    "Assault Rifle"
+    "Assault Rifle",
+    "Weapon"
   ],
   "rarity": "Common",
   "value": 3000,

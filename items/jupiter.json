@@ -42,7 +42,8 @@
   },
   "type": "Sniper Rifle",
   "categories": [
-    "Sniper Rifle"
+    "Sniper Rifle",
+    "Weapon"
   ],
   "rarity": "Legendary",
   "damage": 60,

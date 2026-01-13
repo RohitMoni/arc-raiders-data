@@ -42,7 +42,8 @@
   },
   "type": "LMG",
   "categories": [
-    "LMG"
+    "LMG",
+    "Weapon"
   ],
   "rarity": "Legendary",
   "damage": 8,

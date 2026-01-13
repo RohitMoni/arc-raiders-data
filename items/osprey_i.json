@@ -42,7 +42,8 @@
   },
   "type": "Sniper Rifle",
   "categories": [
-    "Sniper Rifle"
+    "Sniper Rifle",
+    "Weapon"
   ],
   "updatedAt": "11/12/2025",
   "value": 7000,

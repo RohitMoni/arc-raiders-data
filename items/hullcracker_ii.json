@@ -184,7 +184,8 @@
   },
   "type": "Special",
   "categories": [
-    "Special"
+    "Special",
+    "Weapon"
   ],
   "rarity": "Epic",
   "damage": 100,

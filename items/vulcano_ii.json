@@ -42,7 +42,8 @@
   },
   "type": "Shotgun",
   "categories": [
-    "Shotgun"
+    "Shotgun",
+    "Weapon"
   ],
   "rarity": "Epic",
   "damage": 58.5,

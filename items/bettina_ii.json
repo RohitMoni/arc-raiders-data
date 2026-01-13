@@ -42,7 +42,8 @@
   },
   "type": "Assault Rifle",
   "categories": [
-    "Assault Rifle"
+    "Assault Rifle",
+    "Weapon"
   ],
   "value": 11000,
   "rarity": "Epic",

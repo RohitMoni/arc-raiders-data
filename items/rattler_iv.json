@@ -163,7 +163,8 @@
   },
   "type": "Assault Rifle",
   "categories": [
-    "Assault Rifle"
+    "Assault Rifle",
+    "Weapon"
   ],
   "rarity": "Common",
   "damage": 9,

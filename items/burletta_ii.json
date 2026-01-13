@@ -42,7 +42,8 @@
   },
   "type": "Pistol",
   "categories": [
-    "Pistol"
+    "Pistol",
+    "Weapon"
   ],
   "rarity": "Uncommon",
   "value": 5000,

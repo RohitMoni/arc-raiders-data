@@ -42,7 +42,8 @@
   },
   "type": "Special",
   "categories": [
-    "Special"
+    "Special",
+    "Weapon"
   ],
   "rarity": "Epic",
   "value": 10000,

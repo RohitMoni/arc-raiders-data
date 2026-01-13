@@ -226,7 +226,8 @@
   },
   "type": "Sniper Rifle",
   "categories": [
-    "Sniper Rifle"
+    "Sniper Rifle",
+    "Weapon"
   ],
   "rarity": "Rare",
   "damage": 45,

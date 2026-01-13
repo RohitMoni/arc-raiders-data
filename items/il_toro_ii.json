@@ -42,7 +42,8 @@
   },
   "type": "Shotgun",
   "categories": [
-    "Shotgun"
+    "Shotgun",
+    "Weapon"
   ],
   "rarity": "Uncommon",
   "effects": {

@@ -42,7 +42,8 @@
   },
   "type": "Shotgun",
   "categories": [
-    "Shotgun"
+    "Shotgun",
+    "Weapon"
   ],
   "rarity": "Epic",
   "value": 17000,

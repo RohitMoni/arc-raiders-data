@@ -42,7 +42,8 @@
   },
   "type": "Hand Cannon",
   "categories": [
-    "Hand Cannon"
+    "Hand Cannon",
+    "Weapon"
   ],
   "value": 13000,
   "rarity": "Uncommon",

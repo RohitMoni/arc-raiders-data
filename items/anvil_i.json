@@ -42,7 +42,8 @@
   },
   "type": "Hand Cannon",
   "categories": [
-    "Hand Cannon"
+    "Hand Cannon",
+    "Weapon"
   ],
   "rarity": "Uncommon",
   "effects": {

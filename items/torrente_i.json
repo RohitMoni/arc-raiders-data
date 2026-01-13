@@ -42,7 +42,8 @@
   },
   "type": "LMG",
   "categories": [
-    "LMG"
+    "LMG",
+    "Weapon"
   ],
   "rarity": "Rare",
   "value": 7000,

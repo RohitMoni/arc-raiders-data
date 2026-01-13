@@ -199,7 +199,8 @@
   },
   "type": "Battle Rifle",
   "categories": [
-    "Battle Rifle"
+    "Battle Rifle",
+    "Weapon"
   ],
   "rarity": "Rare",
   "damage": 35,

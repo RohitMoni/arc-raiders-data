@@ -42,7 +42,8 @@
   },
   "type": "SMG",
   "categories": [
-    "SMG"
+    "SMG",
+    "Weapon"
   ],
   "rarity": "Uncommon",
   "value": 5000,

@@ -42,7 +42,8 @@
   },
   "type": "Battle Rifle",
   "categories": [
-    "Battle Rifle"
+    "Battle Rifle",
+    "Weapon"
   ],
   "rarity": "Common",
   "value": 1000,

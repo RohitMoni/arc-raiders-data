@@ -181,7 +181,8 @@
   },
   "type": "Shotgun",
   "categories": [
-    "Shotgun"
+    "Shotgun",
+    "Weapon"
   ],
   "rarity": "Uncommon",
   "damage": 67.5,
