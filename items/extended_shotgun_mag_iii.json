@@ -42,7 +42,8 @@
   },
   "type": "Modification",
   "categories": [
-    "Modification"
+    "Modification",
+    "Shotgun-Mag Modification"
   ],
   "value": 5000,
   "rarity": "Rare",

@@ -42,7 +42,8 @@
   },
   "type": "Modification",
   "categories": [
-    "Modification"
+    "Modification",
+    "Underbarrel Modification"
   ],
   "value": 2000,
   "rarity": "Uncommon",

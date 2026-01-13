@@ -42,7 +42,8 @@
   "id": "extended_barrel",
   "type": "Modification",
   "categories": [
-    "Modification"
+    "Modification",
+    "Muzzle Modification"
   ],
   "value": 5000,
   "rarity": "Epic",

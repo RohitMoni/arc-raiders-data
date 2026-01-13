@@ -42,7 +42,8 @@
   },
   "type": "Modification",
   "categories": [
-    "Modification"
+    "Modification",
+    "Stock Modification"
   ],
   "rarity": "Uncommon",
   "value": 2000,

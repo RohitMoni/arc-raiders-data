@@ -42,7 +42,8 @@
   },
   "type": "Modification",
   "categories": [
-    "Modification"
+    "Modification",
+    "Muzzle Modification"
   ],
   "value": 5000,
   "rarity": "Uncommon",

@@ -42,7 +42,8 @@
   },
   "type": "Modification",
   "categories": [
-    "Modification"
+    "Modification",
+    "Shotgun-Muzzle Modification"
   ],
   "value": 5000,
   "rarity": "Epic",

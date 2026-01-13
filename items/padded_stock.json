@@ -42,7 +42,8 @@
   "id": "padded_stock",
   "type": "Modification",
   "categories": [
-    "Modification"
+    "Modification",
+    "Stock Modification"
   ],
   "value": 5000,
   "rarity": "Epic",

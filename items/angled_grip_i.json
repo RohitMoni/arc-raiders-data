@@ -42,7 +42,8 @@
   },
   "type": "Modification",
   "categories": [
-    "Modification"
+    "Modification",
+    "Underbarrel Modification"
   ],
   "rarity": "Common",
   "weightKg": 0.25,
