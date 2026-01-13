@@ -42,7 +42,14 @@
   },
   "type": "Modification",
   "categories": [
-    "Modification"
+    "Modification",
+    "Tech-Mod Modification"
+  ],
+  "compatibleWith": [
+    "anvil_i",
+    "anvil_ii",
+    "anvil_iii",
+    "anvil_iv"
   ],
   "rarity": "Legendary",
   "weightKg": 0.5,
