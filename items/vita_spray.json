@@ -42,7 +42,8 @@
   },
   "type": "Quick Use",
   "categories": [
-    "Quick Use"
+    "Quick Use",
+    "Healing"
   ],
   "rarity": "Epic",
   "value": 3000,
