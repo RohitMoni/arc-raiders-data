@@ -42,7 +42,8 @@
   },
   "type": "Modification",
   "categories": [
-    "Modification"
+    "Modification",
+    "Stock Modification"
   ],
   "rarity": "Legendary",
   "weightKg": 0.75,
