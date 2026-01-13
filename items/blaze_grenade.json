@@ -43,7 +43,8 @@
   "type": "Quick Use",
   "categories": [
     "Quick Use",
-    "Grenade"
+    "Grenade",
+    "Utility"
   ],
   "rarity": "Rare",
   "value": 1600,

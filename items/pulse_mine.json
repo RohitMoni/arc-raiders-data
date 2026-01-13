@@ -42,7 +42,8 @@
   "id": "pulse_mine",
   "type": "Quick Use",
   "categories": [
-    "Quick Use"
+    "Quick Use",
+    "Utility"
   ],
   "value": 470,
   "rarity": "Uncommon",

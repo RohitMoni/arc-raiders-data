@@ -42,7 +42,8 @@
   "id": "deadline",
   "type": "Quick Use",
   "categories": [
-    "Quick Use"
+    "Quick Use",
+    "Utility"
   ],
   "value": 5000,
   "rarity": "Epic",
